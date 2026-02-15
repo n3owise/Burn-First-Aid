@@ -10,50 +10,50 @@
         "en": "Scalds from boiling water, tea, or steam",
         "hi": "उबलते पानी, चाय या भाप से जलना"
       },
-      "imageUrl": "./images/hot-water.jpg",
+      "imageUrl": "/images/hot-water.jpg",
       "subtitle": {
         "en": "Common household injury from boiling water and steam",
         "hi": "उबलते पानी और भाप से आम घरेलू चोट"
       },
-      "heroImage": "./images/hot-water.jpg",
+      "heroImage": "/images/hot-water.jpg",
       "dos": [
         {
-          "image": "./images/hot-water/dos/step-1.jpg",
+          "image": "/images/hot-water/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/hot-water/dos/step-2.jpg",
+          "image": "/images/hot-water/dos/step-2.jpg",
           "text": {
             "en": "Remove rings, watch & tight clothing",
             "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
           }
         },
         {
-          "image": "./images/hot-water/dos/step-3.jpg",
+          "image": "/images/hot-water/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/hot-water/dos/step-4.jpg",
+          "image": "/images/hot-water/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/hot-water/dos/step-5.jpg",
+          "image": "/images/hot-water/dos/step-5.jpg",
           "text": {
             "en": "Drink water, stay hydrated",
             "hi": "पानी पिएं, हाइड्रेटेड रहें"
           }
         },
         {
-          "image": "./images/hot-water/dos/step-6.jpg",
+          "image": "/images/hot-water/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -62,35 +62,35 @@
       ],
       "donts": [
         {
-          "image": "./images/hot-water/donts/step-1.jpg",
+          "image": "/images/hot-water/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/hot-water/donts/step-2.jpg",
+          "image": "/images/hot-water/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/hot-water/donts/step-3.jpg",
+          "image": "/images/hot-water/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/hot-water/donts/step-4.jpg",
+          "image": "/images/hot-water/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/hot-water/donts/step-5.jpg",
+          "image": "/images/hot-water/donts/step-5.jpg",
           "text": {
             "en": "Don't use cotton on wound",
             "hi": "घाव पर रूई न लगाएं"
@@ -192,50 +192,50 @@
         "en": "Kitchen burns from cooking oil",
         "hi": "खाना पकाने के तेल से जलना"
       },
-      "imageUrl": "./images/hot-oil.jpg",
+      "imageUrl": "/images/hot-oil.jpg",
       "subtitle": {
         "en": "Common kitchen injury from cooking oil splashes",
         "hi": "खाना पकाते समय तेल के छींटों से चोट"
       },
-      "heroImage": "./images/hot-oil.jpg",
+      "heroImage": "/images/hot-oil.jpg",
       "dos": [
         {
-          "image": "./images/hot-oil/dos/step-1.jpg",
+          "image": "/images/hot-oil/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/hot-oil/dos/step-2.jpg",
+          "image": "/images/hot-oil/dos/step-2.jpg",
           "text": {
             "en": "Remove rings, watch & tight clothing",
             "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
           }
         },
         {
-          "image": "./images/hot-oil/dos/step-3.jpg",
+          "image": "/images/hot-oil/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/hot-oil/dos/step-4.jpg",
+          "image": "/images/hot-oil/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/hot-oil/dos/step-5.jpg",
+          "image": "/images/hot-oil/dos/step-5.jpg",
           "text": {
             "en": "Drink water, stay hydrated",
             "hi": "पानी पिएं, हाइड्रेटेड रहें"
           }
         },
         {
-          "image": "./images/hot-oil/dos/step-6.jpg",
+          "image": "/images/hot-oil/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -244,35 +244,35 @@
       ],
       "donts": [
         {
-          "image": "./images/hot-oil/donts/step-1.jpg",
+          "image": "/images/hot-oil/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/hot-oil/donts/step-2.jpg",
+          "image": "/images/hot-oil/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/hot-oil/donts/step-3.jpg",
+          "image": "/images/hot-oil/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/hot-oil/donts/step-4.jpg",
+          "image": "/images/hot-oil/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/hot-oil/donts/step-5.jpg",
+          "image": "/images/hot-oil/donts/step-5.jpg",
           "text": {
             "en": "Don't use cotton on wound",
             "hi": "घाव पर रूई न लगाएं"
@@ -374,50 +374,50 @@
         "en": "Burns from direct fire or gas stove",
         "hi": "सीधी आग या गैस स्टोव से जलना"
       },
-      "imageUrl": "./images/gas-stove.jpg",
+      "imageUrl": "/images/gas-stove.jpg",
       "subtitle": {
         "en": "Direct flame contact while cooking",
         "hi": "खाना पकाते समय सीधी आग के संपर्क से"
       },
-      "heroImage": "./images/gas-stove.jpg",
+      "heroImage": "/images/gas-stove.jpg",
       "dos": [
         {
-          "image": "./images/gas-stove/dos/step-1.jpg",
+          "image": "/images/gas-stove/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/gas-stove/dos/step-2.jpg",
+          "image": "/images/gas-stove/dos/step-2.jpg",
           "text": {
             "en": "Remove rings, watch & tight clothing",
             "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
           }
         },
         {
-          "image": "./images/gas-stove/dos/step-3.jpg",
+          "image": "/images/gas-stove/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/gas-stove/dos/step-4.jpg",
+          "image": "/images/gas-stove/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/gas-stove/dos/step-5.jpg",
+          "image": "/images/gas-stove/dos/step-5.jpg",
           "text": {
             "en": "Drink water, stay hydrated",
             "hi": "पानी पिएं, हाइड्रेटेड रहें"
           }
         },
         {
-          "image": "./images/gas-stove/dos/step-6.jpg",
+          "image": "/images/gas-stove/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -426,35 +426,35 @@
       ],
       "donts": [
         {
-          "image": "./images/gas-stove/donts/step-1.jpg",
+          "image": "/images/gas-stove/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/gas-stove/donts/step-2.jpg",
+          "image": "/images/gas-stove/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/gas-stove/donts/step-3.jpg",
+          "image": "/images/gas-stove/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/gas-stove/donts/step-4.jpg",
+          "image": "/images/gas-stove/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/gas-stove/donts/step-5.jpg",
+          "image": "/images/gas-stove/donts/step-5.jpg",
           "text": {
             "en": "Don't use cotton on wound",
             "hi": "घाव पर रूई न लगाएं"
@@ -556,50 +556,50 @@
         "en": "Contact burns from hot vessels",
         "hi": "गर्म बर्तनों को छूने से जलना"
       },
-      "imageUrl": "./images/hot-utensil.jpg",
+      "imageUrl": "/images/hot-utensil.jpg",
       "subtitle": {
         "en": "Contact injury from touching hot cookware",
         "hi": "गर्म बर्तन छूने से चोट"
       },
-      "heroImage": "./images/hot-utensil.jpg",
+      "heroImage": "/images/hot-utensil.jpg",
       "dos": [
         {
-          "image": "./images/hot-utensil/dos/step-1.jpg",
+          "image": "/images/hot-utensil/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/hot-utensil/dos/step-2.jpg",
+          "image": "/images/hot-utensil/dos/step-2.jpg",
           "text": {
             "en": "Remove rings, watch & tight clothing",
             "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
           }
         },
         {
-          "image": "./images/hot-utensil/dos/step-3.jpg",
+          "image": "/images/hot-utensil/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/hot-utensil/dos/step-4.jpg",
+          "image": "/images/hot-utensil/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/hot-utensil/dos/step-5.jpg",
+          "image": "/images/hot-utensil/dos/step-5.jpg",
           "text": {
             "en": "Drink water, stay hydrated",
             "hi": "पानी पिएं, हाइड्रेटेड रहें"
           }
         },
         {
-          "image": "./images/hot-utensil/dos/step-6.jpg",
+          "image": "/images/hot-utensil/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -608,35 +608,35 @@
       ],
       "donts": [
         {
-          "image": "./images/hot-utensil/donts/step-1.jpg",
+          "image": "/images/hot-utensil/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/hot-utensil/donts/step-2.jpg",
+          "image": "/images/hot-utensil/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/hot-utensil/donts/step-3.jpg",
+          "image": "/images/hot-utensil/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/hot-utensil/donts/step-4.jpg",
+          "image": "/images/hot-utensil/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/hot-utensil/donts/step-5.jpg",
+          "image": "/images/hot-utensil/donts/step-5.jpg",
           "text": {
             "en": "Don't use cotton on wound",
             "hi": "घाव पर रूई न लगाएं"
@@ -738,50 +738,50 @@
         "en": "Burns from clothes iron or hot metal",
         "hi": "कपड़ों की इस्त्री या गर्म धातु से जलना"
       },
-      "imageUrl": "./images/iron.jpg",
+      "imageUrl": "/images/iron.jpg",
       "subtitle": {
         "en": "Contact injury from ironing or hot metal surfaces",
         "hi": "इस्त्री करते या गर्म धातु की सतह छूने से चोट"
       },
-      "heroImage": "./images/iron.jpg",
+      "heroImage": "/images/iron.jpg",
       "dos": [
         {
-          "image": "./images/iron/dos/step-1.jpg",
+          "image": "/images/iron/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/iron/dos/step-2.jpg",
+          "image": "/images/iron/dos/step-2.jpg",
           "text": {
             "en": "Remove rings, watch & tight clothing",
             "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
           }
         },
         {
-          "image": "./images/iron/dos/step-3.jpg",
+          "image": "/images/iron/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/iron/dos/step-4.jpg",
+          "image": "/images/iron/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/iron/dos/step-5.jpg",
+          "image": "/images/iron/dos/step-5.jpg",
           "text": {
             "en": "Drink water, stay hydrated",
             "hi": "पानी पिएं, हाइड्रेटेड रहें"
           }
         },
         {
-          "image": "./images/iron/dos/step-6.jpg",
+          "image": "/images/iron/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -790,35 +790,35 @@
       ],
       "donts": [
         {
-          "image": "./images/iron/donts/step-1.jpg",
+          "image": "/images/iron/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/iron/donts/step-2.jpg",
+          "image": "/images/iron/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/iron/donts/step-3.jpg",
+          "image": "/images/iron/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/iron/donts/step-4.jpg",
+          "image": "/images/iron/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/iron/donts/step-5.jpg",
+          "image": "/images/iron/donts/step-5.jpg",
           "text": {
             "en": "Don't use cotton on wound",
             "hi": "घाव पर रूई न लगाएं"
@@ -920,50 +920,50 @@
         "en": "Burns from electric shock",
         "hi": "बिजली के झटके से जलना"
       },
-      "imageUrl": "./images/electrical.jpg",
+      "imageUrl": "/images/electrical.jpg",
       "subtitle": {
         "en": "Injury from electrical current or shock",
         "hi": "बिजली के करंट या झटके से चोट"
       },
-      "heroImage": "./images/electrical.jpg",
+      "heroImage": "/images/electrical.jpg",
       "dos": [
         {
-          "image": "./images/electrical/dos/step-1.jpg",
+          "image": "/images/electrical/dos/step-1.jpg",
           "text": {
             "en": "Turn off power source immediately",
             "hi": "तुरंत बिजली का स्रोत बंद करें"
           }
         },
         {
-          "image": "./images/electrical/dos/step-2.jpg",
+          "image": "/images/electrical/dos/step-2.jpg",
           "text": {
             "en": "Call emergency services (108/102)",
             "hi": "आपातकालीन सेवा (108/102) बुलाएं"
           }
         },
         {
-          "image": "./images/electrical/dos/step-3.jpg",
+          "image": "/images/electrical/dos/step-3.jpg",
           "text": {
             "en": "Check for breathing and pulse",
             "hi": "सांस और नाड़ी की जांच करें"
           }
         },
         {
-          "image": "./images/electrical/dos/step-4.jpg",
+          "image": "/images/electrical/dos/step-4.jpg",
           "text": {
             "en": "Cool visible burns with water",
             "hi": "दिखाई देने वाले जले हिस्से को पानी से ठंडा करें"
           }
         },
         {
-          "image": "./images/electrical/dos/step-5.jpg",
+          "image": "/images/electrical/dos/step-5.jpg",
           "text": {
             "en": "Cover burns with clean cloth",
             "hi": "जले हिस्से को साफ कपड़े से ढकें"
           }
         },
         {
-          "image": "./images/electrical/dos/step-6.jpg",
+          "image": "/images/electrical/dos/step-6.jpg",
           "text": {
             "en": "Keep victim warm and calm",
             "hi": "पीड़ित को गर्म और शांत रखें"
@@ -972,35 +972,35 @@
       ],
       "donts": [
         {
-          "image": "./images/electrical/donts/step-1.jpg",
+          "image": "/images/electrical/donts/step-1.jpg",
           "text": {
             "en": "Don't touch victim while connected to power",
             "hi": "बिजली से जुड़े पीड़ित को न छुएं"
           }
         },
         {
-          "image": "./images/electrical/donts/step-2.jpg",
+          "image": "/images/electrical/donts/step-2.jpg",
           "text": {
             "en": "Don't use water near live electricity",
             "hi": "लाइव बिजली के पास पानी न डालें"
           }
         },
         {
-          "image": "./images/electrical/donts/step-3.jpg",
+          "image": "/images/electrical/donts/step-3.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/electrical/donts/step-4.jpg",
+          "image": "/images/electrical/donts/step-4.jpg",
           "text": {
             "en": "Don't move victim unnecessarily",
             "hi": "पीड़ित को बिना जरूरत न हिलाएं"
           }
         },
         {
-          "image": "./images/electrical/donts/step-5.jpg",
+          "image": "/images/electrical/donts/step-5.jpg",
           "text": {
             "en": "Don't ignore internal injuries",
             "hi": "आंतरिक चोटों को नजरअंदाज न करें"
@@ -1102,50 +1102,50 @@
         "en": "Spills from hot milk or liquids",
         "hi": "गर्म दूध या तरल पदार्थ गिरने से"
       },
-      "imageUrl": "./images/hot-milk.jpg",
+      "imageUrl": "/images/hot-milk.jpg",
       "subtitle": {
         "en": "Scalding from hot beverages and liquids",
         "hi": "गर्म पेय और तरल पदार्थ से जलना"
       },
-      "heroImage": "./images/hot-milk.jpg",
+      "heroImage": "/images/hot-milk.jpg",
       "dos": [
         {
-          "image": "./images/hot-milk/dos/step-1.jpg",
+          "image": "/images/hot-milk/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/hot-milk/dos/step-2.jpg",
+          "image": "/images/hot-milk/dos/step-2.jpg",
           "text": {
             "en": "Remove wet clothing gently",
             "hi": "गीले कपड़े धीरे से उतारें"
           }
         },
         {
-          "image": "./images/hot-milk/dos/step-3.jpg",
+          "image": "/images/hot-milk/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/hot-milk/dos/step-4.jpg",
+          "image": "/images/hot-milk/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/hot-milk/dos/step-5.jpg",
+          "image": "/images/hot-milk/dos/step-5.jpg",
           "text": {
             "en": "Drink water, stay hydrated",
             "hi": "पानी पिएं, हाइड्रेटेड रहें"
           }
         },
         {
-          "image": "./images/hot-milk/dos/step-6.jpg",
+          "image": "/images/hot-milk/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -1154,35 +1154,35 @@
       ],
       "donts": [
         {
-          "image": "./images/hot-milk/donts/step-1.jpg",
+          "image": "/images/hot-milk/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/hot-milk/donts/step-2.jpg",
+          "image": "/images/hot-milk/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/hot-milk/donts/step-3.jpg",
+          "image": "/images/hot-milk/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/hot-milk/donts/step-4.jpg",
+          "image": "/images/hot-milk/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/hot-milk/donts/step-5.jpg",
+          "image": "/images/hot-milk/donts/step-5.jpg",
           "text": {
             "en": "Don't peel off stuck clothing",
             "hi": "चिपके हुए कपड़े न उतारें"
@@ -1284,50 +1284,50 @@
         "en": "Burns from candle wax or diya",
         "hi": "मोमबत्ती के मोम या दीये से जलना"
       },
-      "imageUrl": "./images/candle.jpg",
+      "imageUrl": "/images/candle.jpg",
       "subtitle": {
         "en": "Burns from candle flame or hot wax drips",
         "hi": "मोमबत्ती की लौ या गर्म मोम की बूंदों से जलना"
       },
-      "heroImage": "./images/candle.jpg",
+      "heroImage": "/images/candle.jpg",
       "dos": [
         {
-          "image": "./images/candle/dos/step-1.jpg",
+          "image": "/images/candle/dos/step-1.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/candle/dos/step-2.jpg",
+          "image": "/images/candle/dos/step-2.jpg",
           "text": {
             "en": "Let wax cool, then gently peel off",
             "hi": "मोम ठंडा होने दें, फिर धीरे से हटाएं"
           }
         },
         {
-          "image": "./images/candle/dos/step-3.jpg",
+          "image": "/images/candle/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/candle/dos/step-4.jpg",
+          "image": "/images/candle/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/candle/dos/step-5.jpg",
+          "image": "/images/candle/dos/step-5.jpg",
           "text": {
             "en": "Extinguish candles safely",
             "hi": "मोमबत्तियां सुरक्षित तरीके से बुझाएं"
           }
         },
         {
-          "image": "./images/candle/dos/step-6.jpg",
+          "image": "/images/candle/dos/step-6.jpg",
           "text": {
             "en": "Take painkiller if needed",
             "hi": "जरूरत हो तो दर्द की दवा लें"
@@ -1336,35 +1336,35 @@
       ],
       "donts": [
         {
-          "image": "./images/candle/donts/step-1.jpg",
+          "image": "/images/candle/donts/step-1.jpg",
           "text": {
             "en": "Don't pull off hot wax immediately",
             "hi": "गर्म मोम तुरंत न खींचें"
           }
         },
         {
-          "image": "./images/candle/donts/step-2.jpg",
+          "image": "/images/candle/donts/step-2.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/candle/donts/step-3.jpg",
+          "image": "/images/candle/donts/step-3.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/candle/donts/step-4.jpg",
+          "image": "/images/candle/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/candle/donts/step-5.jpg",
+          "image": "/images/candle/donts/step-5.jpg",
           "text": {
             "en": "Don't leave candles unattended",
             "hi": "मोमबत्तियों को अकेला न छोड़ें"
@@ -1466,50 +1466,50 @@
         "en": "Diwali and firecracker injuries",
         "hi": "दिवाली और पटाखों से चोट"
       },
-      "imageUrl": "./images/firecracker.jpg",
+      "imageUrl": "/images/firecracker.jpg",
       "subtitle": {
         "en": "Burns and injuries from fireworks and crackers",
         "hi": "आतिशबाजी और पटाखों से जलना और चोट"
       },
-      "heroImage": "./images/firecracker.jpg",
+      "heroImage": "/images/firecracker.jpg",
       "dos": [
         {
-          "image": "./images/firecracker/dos/step-1.jpg",
+          "image": "/images/firecracker/dos/step-1.jpg",
           "text": {
             "en": "Move to safe area immediately",
             "hi": "तुरंत सुरक्षित क्षेत्र में जाएं"
           }
         },
         {
-          "image": "./images/firecracker/dos/step-2.jpg",
+          "image": "/images/firecracker/dos/step-2.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/firecracker/dos/step-3.jpg",
+          "image": "/images/firecracker/dos/step-3.jpg",
           "text": {
             "en": "Check for eye or hearing injuries",
             "hi": "आंख या सुनने में चोट की जांच करें"
           }
         },
         {
-          "image": "./images/firecracker/dos/step-4.jpg",
+          "image": "/images/firecracker/dos/step-4.jpg",
           "text": {
             "en": "Cover burns with clean bandage",
             "hi": "जले हिस्से को साफ पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/firecracker/dos/step-5.jpg",
+          "image": "/images/firecracker/dos/step-5.jpg",
           "text": {
             "en": "Go to hospital for severe burns",
             "hi": "गंभीर जलन के लिए अस्पताल जाएं"
           }
         },
         {
-          "image": "./images/firecracker/dos/step-6.jpg",
+          "image": "/images/firecracker/dos/step-6.jpg",
           "text": {
             "en": "Keep emergency number ready",
             "hi": "आपातकालीन नंबर तैयार रखें"
@@ -1518,35 +1518,35 @@
       ],
       "donts": [
         {
-          "image": "./images/firecracker/donts/step-1.jpg",
+          "image": "/images/firecracker/donts/step-1.jpg",
           "text": {
             "en": "Don't relight failed crackers",
             "hi": "फेल हुए पटाखे फिर से न जलाएं"
           }
         },
         {
-          "image": "./images/firecracker/donts/step-2.jpg",
+          "image": "/images/firecracker/donts/step-2.jpg",
           "text": {
             "en": "Don't apply ice or toothpaste",
             "hi": "बर्फ या टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/firecracker/donts/step-3.jpg",
+          "image": "/images/firecracker/donts/step-3.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/firecracker/donts/step-4.jpg",
+          "image": "/images/firecracker/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/firecracker/donts/step-5.jpg",
+          "image": "/images/firecracker/donts/step-5.jpg",
           "text": {
             "en": "Don't rub eyes if injured",
             "hi": "चोट लगने पर आंखें न रगड़ें"
@@ -1648,50 +1648,50 @@
         "en": "Skin damage from sun exposure",
         "hi": "धूप से त्वचा को नुकसान"
       },
-      "imageUrl": "./images/sunburn.jpg",
+      "imageUrl": "/images/sunburn.jpg",
       "subtitle": {
         "en": "UV radiation damage from prolonged sun exposure",
         "hi": "लंबे समय तक धूप में रहने से UV किरणों का नुकसान"
       },
-      "heroImage": "./images/sunburn.jpg",
+      "heroImage": "/images/sunburn.jpg",
       "dos": [
         {
-          "image": "./images/sunburn/dos/step-1.jpg",
+          "image": "/images/sunburn/dos/step-1.jpg",
           "text": {
             "en": "Get out of sun immediately",
             "hi": "तुरंत धूप से बाहर निकलें"
           }
         },
         {
-          "image": "./images/sunburn/dos/step-2.jpg",
+          "image": "/images/sunburn/dos/step-2.jpg",
           "text": {
             "en": "Take cool shower or bath",
             "hi": "ठंडा शावर या स्नान करें"
           }
         },
         {
-          "image": "./images/sunburn/dos/step-3.jpg",
+          "image": "/images/sunburn/dos/step-3.jpg",
           "text": {
             "en": "Apply aloe vera gel generously",
             "hi": "एलोवेरा जेल खूब लगाएं"
           }
         },
         {
-          "image": "./images/sunburn/dos/step-4.jpg",
+          "image": "/images/sunburn/dos/step-4.jpg",
           "text": {
             "en": "Drink plenty of water",
             "hi": "खूब पानी पिएं"
           }
         },
         {
-          "image": "./images/sunburn/dos/step-5.jpg",
+          "image": "/images/sunburn/dos/step-5.jpg",
           "text": {
             "en": "Wear loose cotton clothing",
             "hi": "ढीले सूती कपड़े पहनें"
           }
         },
         {
-          "image": "./images/sunburn/dos/step-6.jpg",
+          "image": "/images/sunburn/dos/step-6.jpg",
           "text": {
             "en": "Use sunscreen daily (SPF 30+)",
             "hi": "रोज़ सनस्क्रीन लगाएं (SPF 30+)"
@@ -1700,35 +1700,35 @@
       ],
       "donts": [
         {
-          "image": "./images/sunburn/donts/step-1.jpg",
+          "image": "/images/sunburn/donts/step-1.jpg",
           "text": {
             "en": "Don't go back in sun",
             "hi": "वापस धूप में न जाएं"
           }
         },
         {
-          "image": "./images/sunburn/donts/step-2.jpg",
+          "image": "/images/sunburn/donts/step-2.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/sunburn/donts/step-3.jpg",
+          "image": "/images/sunburn/donts/step-3.jpg",
           "text": {
             "en": "Don't use ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/sunburn/donts/step-4.jpg",
+          "image": "/images/sunburn/donts/step-4.jpg",
           "text": {
             "en": "Don't peel peeling skin",
             "hi": "त्वचा को उधेड़ें नहीं"
           }
         },
         {
-          "image": "./images/sunburn/donts/step-5.jpg",
+          "image": "/images/sunburn/donts/step-5.jpg",
           "text": {
             "en": "Don't use petroleum-based products",
             "hi": "पेट्रोलियम आधारित उत्पाद न लगाएं"
@@ -1830,50 +1830,50 @@
         "en": "Burns from acids or chemicals",
         "hi": "एसिड या रसायनों से जलना"
       },
-      "imageUrl": "./images/chemical.jpg",
+      "imageUrl": "/images/chemical.jpg",
       "subtitle": {
         "en": "Skin damage from household or industrial chemicals",
         "hi": "घरेलू या औद्योगिक रसायनों से त्वचा को नुकसान"
       },
-      "heroImage": "./images/chemical.jpg",
+      "heroImage": "/images/chemical.jpg",
       "dos": [
         {
-          "image": "./images/chemical/dos/step-1.jpg",
+          "image": "/images/chemical/dos/step-1.jpg",
           "text": {
             "en": "Remove contaminated clothing immediately",
             "hi": "संदूषित कपड़े तुरंत उतारें"
           }
         },
         {
-          "image": "./images/chemical/dos/step-2.jpg",
+          "image": "/images/chemical/dos/step-2.jpg",
           "text": {
             "en": "Flush with water for 20+ minutes",
             "hi": "20+ मिनट तक पानी से धोएं"
           }
         },
         {
-          "image": "./images/chemical/dos/step-3.jpg",
+          "image": "/images/chemical/dos/step-3.jpg",
           "text": {
             "en": "Call emergency services immediately",
             "hi": "तुरंत आपातकालीन सेवा बुलाएं"
           }
         },
         {
-          "image": "./images/chemical/dos/step-4.jpg",
+          "image": "/images/chemical/dos/step-4.jpg",
           "text": {
             "en": "Keep chemical container for identification",
             "hi": "रसायन का कंटेनर पहचान के लिए रखें"
           }
         },
         {
-          "image": "./images/chemical/dos/step-5.jpg",
+          "image": "/images/chemical/dos/step-5.jpg",
           "text": {
             "en": "Cover with clean, dry cloth",
             "hi": "साफ, सूखे कपड़े से ढकें"
           }
         },
         {
-          "image": "./images/chemical/dos/step-6.jpg",
+          "image": "/images/chemical/dos/step-6.jpg",
           "text": {
             "en": "Go to hospital for all chemical burns",
             "hi": "सभी केमिकल जलन के लिए अस्पताल जाएं"
@@ -1882,35 +1882,35 @@
       ],
       "donts": [
         {
-          "image": "./images/chemical/donts/step-1.jpg",
+          "image": "/images/chemical/donts/step-1.jpg",
           "text": {
             "en": "Don't neutralize with other chemicals",
             "hi": "अन्य रसायनों से बेअसर न करें"
           }
         },
         {
-          "image": "./images/chemical/donts/step-2.jpg",
+          "image": "/images/chemical/donts/step-2.jpg",
           "text": {
             "en": "Don't apply creams or ointments",
             "hi": "क्रीम या मलहम न लगाएं"
           }
         },
         {
-          "image": "./images/chemical/donts/step-3.jpg",
+          "image": "/images/chemical/donts/step-3.jpg",
           "text": {
             "en": "Don't use bandages or cotton",
             "hi": "पट्टी या रूई न लगाएं"
           }
         },
         {
-          "image": "./images/chemical/donts/step-4.jpg",
+          "image": "/images/chemical/donts/step-4.jpg",
           "text": {
             "en": "Don't touch chemical with bare hands",
             "hi": "नंगे हाथों से केमिकल न छुएं"
           }
         },
         {
-          "image": "./images/chemical/donts/step-5.jpg",
+          "image": "/images/chemical/donts/step-5.jpg",
           "text": {
             "en": "Don't delay seeking medical help",
             "hi": "चिकित्सा सहायता में देरी न करें"
@@ -2012,50 +2012,50 @@
         "en": "Burns from vehicle exhaust pipes",
         "hi": "वाहन के साइलेंसर से जलना"
       },
-      "imageUrl": "./images/exhaust.jpg",
+      "imageUrl": "/images/exhaust.jpg",
       "subtitle": {
         "en": "Contact burns from motorcycle/vehicle exhaust",
         "hi": "मोटरसाइकिल/वाहन के एग्जॉस्ट से संपर्क जलन"
       },
-      "heroImage": "./images/exhaust.jpg",
+      "heroImage": "/images/exhaust.jpg",
       "dos": [
         {
-          "image": "./images/exhaust/dos/step-1.jpg",
+          "image": "/images/exhaust/dos/step-1.jpg",
           "text": {
             "en": "Move away from vehicle immediately",
             "hi": "तुरंत वाहन से दूर हटें"
           }
         },
         {
-          "image": "./images/exhaust/dos/step-2.jpg",
+          "image": "/images/exhaust/dos/step-2.jpg",
           "text": {
             "en": "Cool under running water for 20 minutes",
             "hi": "20 मिनट तक बहते पानी में ठंडा करें"
           }
         },
         {
-          "image": "./images/exhaust/dos/step-3.jpg",
+          "image": "/images/exhaust/dos/step-3.jpg",
           "text": {
             "en": "Remove jewelry and tight clothing",
             "hi": "गहने और तंग कपड़े उतारें"
           }
         },
         {
-          "image": "./images/exhaust/dos/step-4.jpg",
+          "image": "/images/exhaust/dos/step-4.jpg",
           "text": {
             "en": "Apply aloe vera gel gently",
             "hi": "एलोवेरा जेल धीरे से लगाएं"
           }
         },
         {
-          "image": "./images/exhaust/dos/step-5.jpg",
+          "image": "/images/exhaust/dos/step-5.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
             "hi": "साफ, ढीली पट्टी से ढकें"
           }
         },
         {
-          "image": "./images/exhaust/dos/step-6.jpg",
+          "image": "/images/exhaust/dos/step-6.jpg",
           "text": {
             "en": "Be careful around hot vehicles",
             "hi": "गर्म वाहनों के आसपास सावधान रहें"
@@ -2064,35 +2064,35 @@
       ],
       "donts": [
         {
-          "image": "./images/exhaust/donts/step-1.jpg",
+          "image": "/images/exhaust/donts/step-1.jpg",
           "text": {
             "en": "Don't apply ice directly",
             "hi": "बर्फ सीधे न लगाएं"
           }
         },
         {
-          "image": "./images/exhaust/donts/step-2.jpg",
+          "image": "/images/exhaust/donts/step-2.jpg",
           "text": {
             "en": "Don't use butter or ghee",
             "hi": "मक्खन या घी न लगाएं"
           }
         },
         {
-          "image": "./images/exhaust/donts/step-3.jpg",
+          "image": "/images/exhaust/donts/step-3.jpg",
           "text": {
             "en": "Don't apply toothpaste",
             "hi": "टूथपेस्ट न लगाएं"
           }
         },
         {
-          "image": "./images/exhaust/donts/step-4.jpg",
+          "image": "/images/exhaust/donts/step-4.jpg",
           "text": {
             "en": "Don't burst blisters",
             "hi": "फफोले न फोड़ें"
           }
         },
         {
-          "image": "./images/exhaust/donts/step-5.jpg",
+          "image": "/images/exhaust/donts/step-5.jpg",
           "text": {
             "en": "Don't touch exhaust before it cools",
             "hi": "ठंडा होने से पहले एग्जॉस्ट न छुएं"

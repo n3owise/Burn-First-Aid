@@ -7,7 +7,7 @@ interface HospitalBannerProps {
 
 export const HospitalBanner: React.FC<HospitalBannerProps> = ({ lang }) => {
   // Use a direct string path relative to index.html for the image.
-  const hospitalImage = "./images/hospital.jpg";
+  const hospitalImage = "/images/hospital.jpg";
 
   return (
     <div className="bg-white w-full border-b border-[#E5E5E5] shadow-sm">
