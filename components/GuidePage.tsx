@@ -18,9 +18,9 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
   }, []);
 
   return (
-    <div className="min-h-screen bg-white pb-32">
+    <div className="min-h-screen bg-white pb-32 pt-[60px]">
       {/* SECTION 1: TOP NAVIGATION BAR */}
-      <nav className="sticky top-0 z-50 h-[52px] bg-white/95 backdrop-blur-sm border-b border-[#E5E5E5] flex items-center justify-between px-3 transition-all duration-200">
+      <nav className="fixed top-0 left-0 right-0 z-50 h-[52px] bg-white/95 backdrop-blur-sm border-b border-[#E5E5E5] flex items-center justify-between px-3 transition-all duration-200">
         <button 
           onClick={onBack}
           className="flex items-center text-medical-text active:opacity-60 p-2 -ml-2 rounded-lg"

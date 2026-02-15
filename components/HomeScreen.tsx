@@ -29,7 +29,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
   });
 
   return (
-    <div className="bg-white min-h-screen pb-32">
+    <div className="bg-gray-50 min-h-screen pb-32">
       {/* Sticky Header with Search */}
       <Header 
         lang={lang} 
@@ -41,14 +41,14 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
       />
       
       {/* Main Content */}
-      <main className="flex flex-col w-full animate-in fade-in duration-300">
+      <main className="flex flex-col w-full animate-in fade-in duration-300 pt-[60px]">
         
         {/* Only show Hospital Banner and Section Title if NOT searching */}
         {!isSearchOpen && (
           <>
             <HospitalBanner lang={lang} />
-            <div className="px-5 pt-6 pb-4">
-              <h2 className="text-[20px] font-bold text-medical-text mb-0.5">
+            <div className="px-5 pt-8 pb-6 bg-white border-b border-gray-100">
+              <h2 className="text-[22px] font-bold text-medical-text mb-1">
                 {lang === 'en' ? 'First Aid Guides' : 'प्राथमिक उपचार गाइड'}
               </h2>
               <p className="text-[14px] text-medical-subtext">
@@ -62,31 +62,33 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
         {isSearchOpen && <div className="h-4" />}
 
         {/* Search Results / Cards Grid */}
-        {filteredGuides.length > 0 ? (
-          <div className="grid grid-cols-2 gap-3 px-4">
-            {filteredGuides.map((guide) => (
-              <GuideCard 
-                key={guide.id} 
-                guide={guide} 
-                lang={lang}
-                onClick={() => onGuideSelect(guide.id)}
-              />
-            ))}
-          </div>
-        ) : (
-          // No Results State
-          <div className="flex flex-col items-center justify-center py-20 px-4 text-center">
-            <div className="w-16 h-16 bg-gray-50 rounded-full flex items-center justify-center mb-4">
-              <SearchX className="w-8 h-8 text-gray-300" />
+        <div className="flex-1">
+          {filteredGuides.length > 0 ? (
+            <div className="grid grid-cols-2 gap-3 px-4 py-4">
+              {filteredGuides.map((guide) => (
+                <GuideCard 
+                  key={guide.id} 
+                  guide={guide} 
+                  lang={lang}
+                  onClick={() => onGuideSelect(guide.id)}
+                />
+              ))}
             </div>
-            <p className="text-gray-900 font-medium text-[16px] mb-1">
-              {lang === 'en' ? 'No guides found' : 'कोई गाइड नहीं मिली'}
-            </p>
-            <p className="text-gray-500 text-[14px]">
-              {lang === 'en' ? `We couldn't find matches for "${searchQuery}"` : `हमें "${searchQuery}" के लिए परिणाम नहीं मिले`}
-            </p>
-          </div>
-        )}
+          ) : (
+            // No Results State
+            <div className="flex flex-col items-center justify-center py-20 px-4 text-center">
+              <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mb-4">
+                <SearchX className="w-8 h-8 text-gray-300" />
+              </div>
+              <p className="text-gray-900 font-medium text-[16px] mb-1">
+                {lang === 'en' ? 'No guides found' : 'कोई गाइड नहीं मिली'}
+              </p>
+              <p className="text-gray-500 text-[14px]">
+                {lang === 'en' ? `We couldn't find matches for "${searchQuery}"` : `हमें "${searchQuery}" के लिए परिणाम नहीं मिले`}
+              </p>
+            </div>
+          )}
+        </div>
       </main>
 
       {/* Floating Emergency Button */}
