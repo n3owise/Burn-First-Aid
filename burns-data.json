@@ -1,0 +1,2188 @@
+{
+  "guides": [
+    {
+      "id": "hot-water",
+      "title": {
+        "en": "Hot Water / Steam",
+        "hi": "गर्म पानी / भाप"
+      },
+      "description": {
+        "en": "Scalds from boiling water, tea, or steam",
+        "hi": "उबलते पानी, चाय या भाप से जलना"
+      },
+      "imageUrl": "./images/hot-water.jpg",
+      "subtitle": {
+        "en": "Common household injury from boiling water and steam",
+        "hi": "उबलते पानी और भाप से आम घरेलू चोट"
+      },
+      "heroImage": "./images/hot-water.jpg",
+      "dos": [
+        {
+          "image": "./images/hot-water/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/hot-water/dos/step-2.jpg",
+          "text": {
+            "en": "Remove rings, watch & tight clothing",
+            "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
+          }
+        },
+        {
+          "image": "./images/hot-water/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-water/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/hot-water/dos/step-5.jpg",
+          "text": {
+            "en": "Drink water, stay hydrated",
+            "hi": "पानी पिएं, हाइड्रेटेड रहें"
+          }
+        },
+        {
+          "image": "./images/hot-water/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/hot-water/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-water/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-water/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-water/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/hot-water/donts/step-5.jpg",
+          "text": {
+            "en": "Don't use cotton on wound",
+            "hi": "घाव पर रूई न लगाएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Move Away from Heat Source",
+            "hi": "गर्म स्रोत से दूर हटें"
+          },
+          "description": {
+            "en": "Immediately move away from hot water or steam. Turn off heat source if safe. Alert others nearby.",
+            "hi": "तुरंत गर्म पानी या भाप से दूर हटें। सुरक्षित हो तो गर्मी का स्रोत बंद करें। आस-पास के लोगों को सतर्क करें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool (not cold) running tap water for 15-20 minutes. This is the most critical step.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे (बर्फीला नहीं) बहते पानी में रखें। यह सबसे जरूरी कदम है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove rings, watches, bracelets, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की अंगूठी, घड़ी, चूड़ी या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream. Never use butter, oil, or toothpaste.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं। मक्खन, तेल या टूथपेस्ट कभी न लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly. Change daily.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें। रोज़ बदलें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Manage Pain & Stay Hydrated",
+            "hi": "दर्द और पानी का ध्यान रखें"
+          },
+          "description": {
+            "en": "Take paracetamol if needed. Drink plenty of water. Keep the burned area elevated if possible.",
+            "hi": "जरूरत हो तो पैरासिटामोल लें। खूब पानी पिएं। जले हुए हिस्से को ऊंचा रखें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "hot-oil",
+      "title": {
+        "en": "Hot Oil / Grease",
+        "hi": "गर्म तेल / घी"
+      },
+      "description": {
+        "en": "Kitchen burns from cooking oil",
+        "hi": "खाना पकाने के तेल से जलना"
+      },
+      "imageUrl": "./images/hot-oil.jpg",
+      "subtitle": {
+        "en": "Common kitchen injury from cooking oil splashes",
+        "hi": "खाना पकाते समय तेल के छींटों से चोट"
+      },
+      "heroImage": "./images/hot-oil.jpg",
+      "dos": [
+        {
+          "image": "./images/hot-oil/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/hot-oil/dos/step-2.jpg",
+          "text": {
+            "en": "Remove rings, watch & tight clothing",
+            "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
+          }
+        },
+        {
+          "image": "./images/hot-oil/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-oil/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/hot-oil/dos/step-5.jpg",
+          "text": {
+            "en": "Drink water, stay hydrated",
+            "hi": "पानी पिएं, हाइड्रेटेड रहें"
+          }
+        },
+        {
+          "image": "./images/hot-oil/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/hot-oil/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-oil/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-oil/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-oil/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/hot-oil/donts/step-5.jpg",
+          "text": {
+            "en": "Don't use cotton on wound",
+            "hi": "घाव पर रूई न लगाएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Move Away from Heat Source",
+            "hi": "गर्म तेल से दूर हटें"
+          },
+          "description": {
+            "en": "Immediately step away from the stove or hot oil. Turn off the burner if safe. Alert others to stay away.",
+            "hi": "तुरंत चूल्हे से दूर हटें। सुरक्षित हो तो बर्नर बंद करें। दूसरों को दूर रहने के लिए कहें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool (not cold) running tap water for 15-20 minutes. This is the most critical step.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे (बर्फीला नहीं) बहते पानी में रखें। यह सबसे जरूरी कदम है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove rings, watches, bracelets, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की अंगूठी, घड़ी, चूड़ी या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream. Never use butter, oil, or toothpaste.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं। मक्खन, तेल या टूथपेस्ट कभी न लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly. Change daily.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें। रोज़ बदलें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Manage Pain & Stay Hydrated",
+            "hi": "दर्द और पानी का ध्यान रखें"
+          },
+          "description": {
+            "en": "Take paracetamol if needed. Drink plenty of water. Keep the burned area elevated if possible.",
+            "hi": "जरूरत हो तो पैरासिटामोल लें। खूब पानी पिएं। जले हुए हिस्से को ऊंचा रखें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "gas-stove",
+      "title": {
+        "en": "Gas Stove / Flame",
+        "hi": "गैस स्टोव / आग"
+      },
+      "description": {
+        "en": "Burns from direct fire or gas stove",
+        "hi": "सीधी आग या गैस स्टोव से जलना"
+      },
+      "imageUrl": "./images/gas-stove.jpg",
+      "subtitle": {
+        "en": "Direct flame contact while cooking",
+        "hi": "खाना पकाते समय सीधी आग के संपर्क से"
+      },
+      "heroImage": "./images/gas-stove.jpg",
+      "dos": [
+        {
+          "image": "./images/gas-stove/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/gas-stove/dos/step-2.jpg",
+          "text": {
+            "en": "Remove rings, watch & tight clothing",
+            "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
+          }
+        },
+        {
+          "image": "./images/gas-stove/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/gas-stove/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/gas-stove/dos/step-5.jpg",
+          "text": {
+            "en": "Drink water, stay hydrated",
+            "hi": "पानी पिएं, हाइड्रेटेड रहें"
+          }
+        },
+        {
+          "image": "./images/gas-stove/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/gas-stove/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/gas-stove/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/gas-stove/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/gas-stove/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/gas-stove/donts/step-5.jpg",
+          "text": {
+            "en": "Don't use cotton on wound",
+            "hi": "घाव पर रूई न लगाएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Turn Off Gas and Move Away",
+            "hi": "गैस बंद करें और दूर हटें"
+          },
+          "description": {
+            "en": "Immediately turn off the gas stove if safe to do so. Move away from the flame and heat source.",
+            "hi": "सुरक्षित होने पर तुरंत गैस स्टोव बंद करें। आग और गर्मी के स्रोत से दूर हटें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool running tap water for 15-20 minutes. This helps reduce damage and pain.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे बहते पानी में रखें। यह नुकसान और दर्द कम करता है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove rings, watches, bracelets, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की अंगूठी, घड़ी, चूड़ी या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor and Seek Help if Needed",
+            "hi": "निगरानी करें और जरूरत पर मदद लें"
+          },
+          "description": {
+            "en": "Watch for signs of infection. Seek medical help if burn is severe or doesn't heal.",
+            "hi": "संक्रमण के संकेतों पर नज़र रखें। अगर जलन गंभीर है या ठीक नहीं हो रही तो डॉक्टर से संपर्क करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "hot-utensil",
+      "title": {
+        "en": "Hot Utensil / Pan",
+        "hi": "गर्म बर्तन / तवा"
+      },
+      "description": {
+        "en": "Contact burns from hot vessels",
+        "hi": "गर्म बर्तनों को छूने से जलना"
+      },
+      "imageUrl": "./images/hot-utensil.jpg",
+      "subtitle": {
+        "en": "Contact injury from touching hot cookware",
+        "hi": "गर्म बर्तन छूने से चोट"
+      },
+      "heroImage": "./images/hot-utensil.jpg",
+      "dos": [
+        {
+          "image": "./images/hot-utensil/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/dos/step-2.jpg",
+          "text": {
+            "en": "Remove rings, watch & tight clothing",
+            "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/dos/step-5.jpg",
+          "text": {
+            "en": "Drink water, stay hydrated",
+            "hi": "पानी पिएं, हाइड्रेटेड रहें"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/hot-utensil/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/hot-utensil/donts/step-5.jpg",
+          "text": {
+            "en": "Don't use cotton on wound",
+            "hi": "घाव पर रूई न लगाएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Remove Hand from Hot Surface",
+            "hi": "गर्म सतह से हाथ हटाएं"
+          },
+          "description": {
+            "en": "Immediately pull your hand away from the hot utensil. Act quickly to minimize burn severity.",
+            "hi": "तुरंत अपना हाथ गर्म बर्तन से हटाएं। जलन की गंभीरता कम करने के लिए जल्दी से कार्य करें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool running tap water for 15-20 minutes. This is the most critical step.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे बहते पानी में रखें। यह सबसे जरूरी कदम है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove rings, watches, bracelets, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की अंगूठी, घड़ी, चूड़ी या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor and Rest",
+            "hi": "निगरानी करें और आराम करें"
+          },
+          "description": {
+            "en": "Keep the burned area elevated. Watch for signs of infection. Change bandages daily.",
+            "hi": "जले हुए हिस्से को ऊंचा रखें। संक्रमण के संकेतों पर नज़र रखें। रोज़ पट्टी बदलें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "iron",
+      "title": {
+        "en": "Iron / Hot Metal",
+        "hi": "इस्त्री / गर्म धातु"
+      },
+      "description": {
+        "en": "Burns from clothes iron or hot metal",
+        "hi": "कपड़ों की इस्त्री या गर्म धातु से जलना"
+      },
+      "imageUrl": "./images/iron.jpg",
+      "subtitle": {
+        "en": "Contact injury from ironing or hot metal surfaces",
+        "hi": "इस्त्री करते या गर्म धातु की सतह छूने से चोट"
+      },
+      "heroImage": "./images/iron.jpg",
+      "dos": [
+        {
+          "image": "./images/iron/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/iron/dos/step-2.jpg",
+          "text": {
+            "en": "Remove rings, watch & tight clothing",
+            "hi": "अंगूठी, घड़ी और तंग कपड़े उतारें"
+          }
+        },
+        {
+          "image": "./images/iron/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/iron/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/iron/dos/step-5.jpg",
+          "text": {
+            "en": "Drink water, stay hydrated",
+            "hi": "पानी पिएं, हाइड्रेटेड रहें"
+          }
+        },
+        {
+          "image": "./images/iron/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/iron/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/iron/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/iron/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/iron/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/iron/donts/step-5.jpg",
+          "text": {
+            "en": "Don't use cotton on wound",
+            "hi": "घाव पर रूई न लगाएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Unplug Iron and Move Away",
+            "hi": "इस्त्री का प्लग निकालें और दूर हटें"
+          },
+          "description": {
+            "en": "Immediately unplug the iron if safe. Move away from the hot appliance to prevent further injury.",
+            "hi": "सुरक्षित होने पर तुरंत इस्त्री का प्लग निकालें। और चोट से बचने के लिए गर्म उपकरण से दूर हटें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool running tap water for 15-20 minutes. This is the most critical step.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे बहते पानी में रखें। यह सबसे जरूरी कदम है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove rings, watches, bracelets, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की अंगूठी, घड़ी, चूड़ी या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor and Seek Help if Needed",
+            "hi": "निगरानी करें और जरूरत पर मदद लें"
+          },
+          "description": {
+            "en": "Watch for signs of infection. Seek medical help if burn is severe or doesn't heal.",
+            "hi": "संक्रमण के संकेतों पर नज़र रखें। अगर जलन गंभीर है या ठीक नहीं हो रही तो डॉक्टर से संपर्क करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "electrical",
+      "title": {
+        "en": "Electrical Burn",
+        "hi": "बिजली से जलना"
+      },
+      "description": {
+        "en": "Burns from electric shock",
+        "hi": "बिजली के झटके से जलना"
+      },
+      "imageUrl": "./images/electrical.jpg",
+      "subtitle": {
+        "en": "Injury from electrical current or shock",
+        "hi": "बिजली के करंट या झटके से चोट"
+      },
+      "heroImage": "./images/electrical.jpg",
+      "dos": [
+        {
+          "image": "./images/electrical/dos/step-1.jpg",
+          "text": {
+            "en": "Turn off power source immediately",
+            "hi": "तुरंत बिजली का स्रोत बंद करें"
+          }
+        },
+        {
+          "image": "./images/electrical/dos/step-2.jpg",
+          "text": {
+            "en": "Call emergency services (108/102)",
+            "hi": "आपातकालीन सेवा (108/102) बुलाएं"
+          }
+        },
+        {
+          "image": "./images/electrical/dos/step-3.jpg",
+          "text": {
+            "en": "Check for breathing and pulse",
+            "hi": "सांस और नाड़ी की जांच करें"
+          }
+        },
+        {
+          "image": "./images/electrical/dos/step-4.jpg",
+          "text": {
+            "en": "Cool visible burns with water",
+            "hi": "दिखाई देने वाले जले हिस्से को पानी से ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/electrical/dos/step-5.jpg",
+          "text": {
+            "en": "Cover burns with clean cloth",
+            "hi": "जले हिस्से को साफ कपड़े से ढकें"
+          }
+        },
+        {
+          "image": "./images/electrical/dos/step-6.jpg",
+          "text": {
+            "en": "Keep victim warm and calm",
+            "hi": "पीड़ित को गर्म और शांत रखें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/electrical/donts/step-1.jpg",
+          "text": {
+            "en": "Don't touch victim while connected to power",
+            "hi": "बिजली से जुड़े पीड़ित को न छुएं"
+          }
+        },
+        {
+          "image": "./images/electrical/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use water near live electricity",
+            "hi": "लाइव बिजली के पास पानी न डालें"
+          }
+        },
+        {
+          "image": "./images/electrical/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/electrical/donts/step-4.jpg",
+          "text": {
+            "en": "Don't move victim unnecessarily",
+            "hi": "पीड़ित को बिना जरूरत न हिलाएं"
+          }
+        },
+        {
+          "image": "./images/electrical/donts/step-5.jpg",
+          "text": {
+            "en": "Don't ignore internal injuries",
+            "hi": "आंतरिक चोटों को नजरअंदाज न करें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Ensure Safety - Turn Off Power",
+            "hi": "सुरक्षा सुनिश्चित करें - बिजली बंद करें"
+          },
+          "description": {
+            "en": "DO NOT touch the victim until power is off. Switch off the main power or circuit breaker. Use a wooden stick to separate victim from source if needed.",
+            "hi": "बिजली बंद होने तक पीड़ित को न छुएं। मुख्य बिजली या सर्किट ब्रेकर बंद करें। जरूरत हो तो लकड़ी की छड़ी से पीड़ित को स्रोत से अलग करें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Call Emergency Services Immediately",
+            "hi": "तुरंत आपातकालीन सेवा बुलाएं"
+          },
+          "description": {
+            "en": "Dial 108 or 102 for ambulance. Electrical burns can cause internal damage not visible externally. Medical evaluation is critical.",
+            "hi": "एंबुलेंस के लिए 108 या 102 डायल करें। बिजली से जलना आंतरिक नुकसान कर सकता है जो बाहर से दिखाई नहीं देता। चिकित्सा मूल्यांकन बहुत जरूरी है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Check Breathing and Pulse",
+            "hi": "सांस और नाड़ी की जांच करें"
+          },
+          "description": {
+            "en": "Check if the victim is breathing and has a pulse. If not, start CPR if trained. Continue until help arrives.",
+            "hi": "जांच करें कि पीड़ित सांस ले रहा है और नाड़ी है। यदि नहीं और आप प्रशिक्षित हैं तो CPR शुरू करें। मदद आने तक जारी रखें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool Visible Burns with Water",
+            "hi": "दिखाई देने वाले जले हिस्से को पानी से ठंडा करें"
+          },
+          "description": {
+            "en": "If there are visible burns, cool them under running water for 10-20 minutes. Be gentle as electrical burns can be deep.",
+            "hi": "यदि दिखाई देने वाले जले हिस्से हैं, तो उन्हें 10-20 मिनट तक बहते पानी में ठंडा करें। सावधान रहें क्योंकि बिजली से जलना गहरा हो सकता है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover Burns with Clean Cloth",
+            "hi": "जले हिस्से को साफ कपड़े से ढकें"
+          },
+          "description": {
+            "en": "After cooling, cover burns loosely with sterile gauze or clean cloth. Don't apply ointments or creams.",
+            "hi": "ठंडा करने के बाद, जले हिस्सों को स्टेराइल गॉज या साफ कपड़े से ढीला ढकें। मलहम या क्रीम न लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor Until Help Arrives",
+            "hi": "मदद आने तक निगरानी करें"
+          },
+          "description": {
+            "en": "Keep the victim warm, calm, and lying down. Watch for shock symptoms: pale skin, rapid pulse, confusion. Do not give anything to eat or drink.",
+            "hi": "पीड़ित को गर्म, शांत और लेटा कर रखें। शॉक के लक्षणों पर नज़र रखें: पीली त्वचा, तेज़ नाड़ी, भ्रम। कुछ खाने या पीने को न दें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "ALL electrical burns need hospital evaluation",
+          "hi": "सभी बिजली से जले हिस्सों का अस्पताल में मूल्यांकन जरूरी है"
+        },
+        {
+          "en": "Victim is unconscious or not breathing",
+          "hi": "पीड़ित बेहोश है या सांस नहीं ले रहा"
+        },
+        {
+          "en": "Burns at entry and exit points of current",
+          "hi": "करंट के प्रवेश और निकास बिंदुओं पर जलन"
+        },
+        {
+          "en": "Chest pain, irregular heartbeat, or confusion",
+          "hi": "सीने में दर्द, अनियमित दिल की धड़कन या भ्रम"
+        },
+        {
+          "en": "Seizures, muscle pain, or numbness",
+          "hi": "दौरे, मांसपेशियों में दर्द या सुन्नता"
+        }
+      ]
+    },
+    {
+      "id": "hot-milk",
+      "title": {
+        "en": "Hot Milk / Liquid",
+        "hi": "गर्म दूध / तरल पदार्थ"
+      },
+      "description": {
+        "en": "Spills from hot milk or liquids",
+        "hi": "गर्म दूध या तरल पदार्थ गिरने से"
+      },
+      "imageUrl": "./images/hot-milk.jpg",
+      "subtitle": {
+        "en": "Scalding from hot beverages and liquids",
+        "hi": "गर्म पेय और तरल पदार्थ से जलना"
+      },
+      "heroImage": "./images/hot-milk.jpg",
+      "dos": [
+        {
+          "image": "./images/hot-milk/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/hot-milk/dos/step-2.jpg",
+          "text": {
+            "en": "Remove wet clothing gently",
+            "hi": "गीले कपड़े धीरे से उतारें"
+          }
+        },
+        {
+          "image": "./images/hot-milk/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-milk/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/hot-milk/dos/step-5.jpg",
+          "text": {
+            "en": "Drink water, stay hydrated",
+            "hi": "पानी पिएं, हाइड्रेटेड रहें"
+          }
+        },
+        {
+          "image": "./images/hot-milk/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/hot-milk/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-milk/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-milk/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/hot-milk/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/hot-milk/donts/step-5.jpg",
+          "text": {
+            "en": "Don't peel off stuck clothing",
+            "hi": "चिपके हुए कपड़े न उतारें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Move Away from Hot Liquid",
+            "hi": "गर्म तरल से दूर हटें"
+          },
+          "description": {
+            "en": "Quickly move away from the spilled hot liquid. Remove wet clothing if not stuck to skin.",
+            "hi": "जल्दी से गिरे हुए गर्म तरल से दूर हटें। यदि त्वचा से चिपका नहीं है तो गीले कपड़े उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool running tap water for 15-20 minutes. This is the most critical step.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे बहते पानी में रखें। यह सबसे जरूरी कदम है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove rings, watches, bracelets, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की अंगूठी, घड़ी, चूड़ी या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor and Seek Help if Needed",
+            "hi": "निगरानी करें और जरूरत पर मदद लें"
+          },
+          "description": {
+            "en": "Watch for signs of infection. Seek medical help if burn is severe or doesn't heal.",
+            "hi": "संक्रमण के संकेतों पर नज़र रखें। अगर जलन गंभीर है या ठीक नहीं हो रही तो डॉक्टर से संपर्क करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "candle",
+      "title": {
+        "en": "Candle / Wax",
+        "hi": "मोमबत्ती / मोम"
+      },
+      "description": {
+        "en": "Burns from candle wax or diya",
+        "hi": "मोमबत्ती के मोम या दीये से जलना"
+      },
+      "imageUrl": "./images/candle.jpg",
+      "subtitle": {
+        "en": "Burns from candle flame or hot wax drips",
+        "hi": "मोमबत्ती की लौ या गर्म मोम की बूंदों से जलना"
+      },
+      "heroImage": "./images/candle.jpg",
+      "dos": [
+        {
+          "image": "./images/candle/dos/step-1.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/candle/dos/step-2.jpg",
+          "text": {
+            "en": "Let wax cool, then gently peel off",
+            "hi": "मोम ठंडा होने दें, फिर धीरे से हटाएं"
+          }
+        },
+        {
+          "image": "./images/candle/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/candle/dos/step-4.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/candle/dos/step-5.jpg",
+          "text": {
+            "en": "Extinguish candles safely",
+            "hi": "मोमबत्तियां सुरक्षित तरीके से बुझाएं"
+          }
+        },
+        {
+          "image": "./images/candle/dos/step-6.jpg",
+          "text": {
+            "en": "Take painkiller if needed",
+            "hi": "जरूरत हो तो दर्द की दवा लें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/candle/donts/step-1.jpg",
+          "text": {
+            "en": "Don't pull off hot wax immediately",
+            "hi": "गर्म मोम तुरंत न खींचें"
+          }
+        },
+        {
+          "image": "./images/candle/donts/step-2.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/candle/donts/step-3.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/candle/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/candle/donts/step-5.jpg",
+          "text": {
+            "en": "Don't leave candles unattended",
+            "hi": "मोमबत्तियों को अकेला न छोड़ें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Extinguish Candle Safely",
+            "hi": "मोमबत्ती सुरक्षित तरीके से बुझाएं"
+          },
+          "description": {
+            "en": "Carefully blow out or snuff the candle. Move it away to prevent further burns.",
+            "hi": "सावधानी से मोमबत्ती बुझाएं। और जलन से बचने के लिए इसे दूर रखें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area under cool running water for 15-20 minutes. This also helps cool any wax stuck to skin.",
+            "hi": "जले हुए हिस्से को 15-20 मिनट तक ठंडे बहते पानी में रखें। इससे त्वचा पर चिपका मोम भी ठंडा होता है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Cooled Wax Gently",
+            "hi": "ठंडे मोम को धीरे से हटाएं"
+          },
+          "description": {
+            "en": "Once wax is cool and hard, gently peel it off. If stuck, soak in cool water longer. Don't force it.",
+            "hi": "जब मोम ठंडा और सख्त हो जाए, तो धीरे से छीलें। अगर चिपका हो तो और देर ठंडे पानी में भिगोएं। जबरदस्ती न करें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling and wax removal, gently apply pure aloe vera gel or burn cream.",
+            "hi": "ठंडा करने और मोम हटाने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage if needed.",
+            "hi": "जरूरत हो तो जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor and Practice Candle Safety",
+            "hi": "निगरानी करें और मोमबत्ती सुरक्षा का पालन करें"
+          },
+          "description": {
+            "en": "Watch the burn for infection. In future, keep candles away from children, in stable holders, and never leave unattended.",
+            "hi": "संक्रमण के लिए जलन पर नज़र रखें। भविष्य में, मोमबत्तियों को बच्चों से दूर, स्थिर धारकों में रखें, और कभी अकेला न छोड़ें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is on face, hands, feet, or joints",
+          "hi": "जलन चेहरे, हाथ, पैर या जोड़ों पर है"
+        },
+        {
+          "en": "Skin looks white, brown, or charred",
+          "hi": "त्वचा सफेद, भूरी या जली हुई दिखती है"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    },
+    {
+      "id": "firecracker",
+      "title": {
+        "en": "Firecracker Burn",
+        "hi": "पटाखे से जलना"
+      },
+      "description": {
+        "en": "Diwali and firecracker injuries",
+        "hi": "दिवाली और पटाखों से चोट"
+      },
+      "imageUrl": "./images/firecracker.jpg",
+      "subtitle": {
+        "en": "Burns and injuries from fireworks and crackers",
+        "hi": "आतिशबाजी और पटाखों से जलना और चोट"
+      },
+      "heroImage": "./images/firecracker.jpg",
+      "dos": [
+        {
+          "image": "./images/firecracker/dos/step-1.jpg",
+          "text": {
+            "en": "Move to safe area immediately",
+            "hi": "तुरंत सुरक्षित क्षेत्र में जाएं"
+          }
+        },
+        {
+          "image": "./images/firecracker/dos/step-2.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/firecracker/dos/step-3.jpg",
+          "text": {
+            "en": "Check for eye or hearing injuries",
+            "hi": "आंख या सुनने में चोट की जांच करें"
+          }
+        },
+        {
+          "image": "./images/firecracker/dos/step-4.jpg",
+          "text": {
+            "en": "Cover burns with clean bandage",
+            "hi": "जले हिस्से को साफ पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/firecracker/dos/step-5.jpg",
+          "text": {
+            "en": "Go to hospital for severe burns",
+            "hi": "गंभीर जलन के लिए अस्पताल जाएं"
+          }
+        },
+        {
+          "image": "./images/firecracker/dos/step-6.jpg",
+          "text": {
+            "en": "Keep emergency number ready",
+            "hi": "आपातकालीन नंबर तैयार रखें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/firecracker/donts/step-1.jpg",
+          "text": {
+            "en": "Don't relight failed crackers",
+            "hi": "फेल हुए पटाखे फिर से न जलाएं"
+          }
+        },
+        {
+          "image": "./images/firecracker/donts/step-2.jpg",
+          "text": {
+            "en": "Don't apply ice or toothpaste",
+            "hi": "बर्फ या टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/firecracker/donts/step-3.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/firecracker/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/firecracker/donts/step-5.jpg",
+          "text": {
+            "en": "Don't rub eyes if injured",
+            "hi": "चोट लगने पर आंखें न रगड़ें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Move to Safe Area",
+            "hi": "सुरक्षित क्षेत्र में जाएं"
+          },
+          "description": {
+            "en": "Immediately move away from firecrackers and fireworks. Ensure no clothing is on fire. Stop, drop, and roll if needed.",
+            "hi": "तुरंत पटाखों और आतिशबाजी से दूर हटें। सुनिश्चित करें कि कोई कपड़ा आग में नहीं है। जरूरत हो तो रुकें, गिरें और लुढ़कें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool Burns Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold burned areas under cool running water for 15-20 minutes. Remove jewelry and tight clothing carefully.",
+            "hi": "जले हुए हिस्सों को 15-20 मिनट तक ठंडे बहते पानी में रखें। गहनों और तंग कपड़ों को सावधानी से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Check for Additional Injuries",
+            "hi": "अतिरिक्त चोटों की जांच करें"
+          },
+          "description": {
+            "en": "Check eyes, ears, and hands carefully. Firecracker injuries can affect vision and hearing. If any damage, seek immediate medical help.",
+            "hi": "आंखों, कानों और हाथों की सावधानी से जांच करें। पटाखे की चोट से दृष्टि और सुनने की क्षमता प्रभावित हो सकती है। कोई नुकसान हो तो तुरंत चिकित्सा सहायता लें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Burn Cream and Cover",
+            "hi": "बर्न क्रीम लगाएं और ढकें"
+          },
+          "description": {
+            "en": "After cooling, apply aloe vera or burn cream. Cover with sterile, non-stick bandage.",
+            "hi": "ठंडा करने के बाद एलोवेरा या बर्न क्रीम लगाएं। स्टेराइल, नॉन-स्टिक पट्टी से ढकें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Seek Medical Attention",
+            "hi": "चिकित्सा सहायता लें"
+          },
+          "description": {
+            "en": "Firecracker burns are often deep. Visit a hospital, especially if burn is large, on face/hands, or if there's eye/ear injury.",
+            "hi": "पटाखे की जलन अक्सर गहरी होती है। अस्पताल जाएं, खासकर अगर जलन बड़ी हो, चेहरे/हाथों पर हो, या आंख/कान में चोट हो।"
+          }
+        },
+        {
+          "title": {
+            "en": "Prevention for Future",
+            "hi": "भविष्य के लिए रोकथाम"
+          },
+          "description": {
+            "en": "Use long sparklers, keep water buckets nearby, wear cotton clothes, maintain safe distance, and supervise children always.",
+            "hi": "लंबे स्पार्कलर्स उपयोग करें, पानी की बाल्टी पास रखें, सूती कपड़े पहनें, सुरक्षित दूरी बनाए रखें, और बच्चों की हमेशा निगरानी करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Eye injury or vision problems",
+          "hi": "आंख में चोट या दृष्टि समस्याएं"
+        },
+        {
+          "en": "Hearing loss or ear damage",
+          "hi": "सुनने में कमी या कान को नुकसान"
+        },
+        {
+          "en": "Burns on face, hands, or genitals",
+          "hi": "चेहरे, हाथ या जननांग पर जलन"
+        },
+        {
+          "en": "Deep or large burn areas",
+          "hi": "गहरी या बड़ी जले हुए क्षेत्र"
+        },
+        {
+          "en": "Blisters, charred skin, or severe pain",
+          "hi": "फफोले, जली हुई त्वचा या तेज दर्द"
+        }
+      ]
+    },
+    {
+      "id": "sunburn",
+      "title": {
+        "en": "Sunburn",
+        "hi": "सनबर्न (धूप से जलना)"
+      },
+      "description": {
+        "en": "Skin damage from sun exposure",
+        "hi": "धूप से त्वचा को नुकसान"
+      },
+      "imageUrl": "./images/sunburn.jpg",
+      "subtitle": {
+        "en": "UV radiation damage from prolonged sun exposure",
+        "hi": "लंबे समय तक धूप में रहने से UV किरणों का नुकसान"
+      },
+      "heroImage": "./images/sunburn.jpg",
+      "dos": [
+        {
+          "image": "./images/sunburn/dos/step-1.jpg",
+          "text": {
+            "en": "Get out of sun immediately",
+            "hi": "तुरंत धूप से बाहर निकलें"
+          }
+        },
+        {
+          "image": "./images/sunburn/dos/step-2.jpg",
+          "text": {
+            "en": "Take cool shower or bath",
+            "hi": "ठंडा शावर या स्नान करें"
+          }
+        },
+        {
+          "image": "./images/sunburn/dos/step-3.jpg",
+          "text": {
+            "en": "Apply aloe vera gel generously",
+            "hi": "एलोवेरा जेल खूब लगाएं"
+          }
+        },
+        {
+          "image": "./images/sunburn/dos/step-4.jpg",
+          "text": {
+            "en": "Drink plenty of water",
+            "hi": "खूब पानी पिएं"
+          }
+        },
+        {
+          "image": "./images/sunburn/dos/step-5.jpg",
+          "text": {
+            "en": "Wear loose cotton clothing",
+            "hi": "ढीले सूती कपड़े पहनें"
+          }
+        },
+        {
+          "image": "./images/sunburn/dos/step-6.jpg",
+          "text": {
+            "en": "Use sunscreen daily (SPF 30+)",
+            "hi": "रोज़ सनस्क्रीन लगाएं (SPF 30+)"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/sunburn/donts/step-1.jpg",
+          "text": {
+            "en": "Don't go back in sun",
+            "hi": "वापस धूप में न जाएं"
+          }
+        },
+        {
+          "image": "./images/sunburn/donts/step-2.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/sunburn/donts/step-3.jpg",
+          "text": {
+            "en": "Don't use ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/sunburn/donts/step-4.jpg",
+          "text": {
+            "en": "Don't peel peeling skin",
+            "hi": "त्वचा को उधेड़ें नहीं"
+          }
+        },
+        {
+          "image": "./images/sunburn/donts/step-5.jpg",
+          "text": {
+            "en": "Don't use petroleum-based products",
+            "hi": "पेट्रोलियम आधारित उत्पाद न लगाएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Get Out of Sun Immediately",
+            "hi": "तुरंत धूप से बाहर निकलें"
+          },
+          "description": {
+            "en": "Move to shade or indoors as soon as you notice redness or discomfort. Further exposure will worsen the burn.",
+            "hi": "लाली या असुविधा महसूस होते ही छाया या घर के अंदर चले जाएं। और एक्सपोजर से जलन बदतर हो जाएगी।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Skin with Water",
+            "hi": "पानी से त्वचा को ठंडा करें"
+          },
+          "description": {
+            "en": "Take frequent cool (not cold) showers or baths. Apply cool, damp cloths to affected areas for 10-15 minutes several times a day.",
+            "hi": "बार-बार ठंडा (बर्फीला नहीं) शावर या स्नान करें। प्रभावित क्षेत्रों पर दिन में कई बार 10-15 मिनट के लिए ठंडा, नम कपड़ा लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Moisturize with Aloe Vera",
+            "hi": "एलोवेरा से नमी दें"
+          },
+          "description": {
+            "en": "Apply pure aloe vera gel or moisturizer with aloe vera. Reapply frequently to keep skin hydrated and soothe pain.",
+            "hi": "शुद्ध एलोवेरा जेल या एलोवेरा युक्त मॉइस्चराइज़र लगाएं। त्वचा को हाइड्रेटेड रखने और दर्द शांत करने के लिए बार-बार लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Hydrate from Inside",
+            "hi": "अंदर से हाइड्रेट करें"
+          },
+          "description": {
+            "en": "Drink extra water. Sunburn draws fluid to skin surface and away from rest of body, causing dehydration.",
+            "hi": "अतिरिक्त पानी पिएं। सनबर्न त्वचा की सतह पर तरल पदार्थ खींचता है और शरीर के बाकी हिस्से से दूर, जिससे निर्जलीकरण होता है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Take Pain Relief if Needed",
+            "hi": "जरूरत हो तो दर्द निवारक लें"
+          },
+          "description": {
+            "en": "Take ibuprofen or paracetamol to reduce inflammation, pain, and fever. Follow package directions.",
+            "hi": "सूजन, दर्द और बुखार कम करने के लिए इबुप्रोफेन या पैरासिटामोल लें। पैकेज निर्देशों का पालन करें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Protect and Prevent Future Burns",
+            "hi": "सुरक्षा करें और भविष्य में जलन से बचें"
+          },
+          "description": {
+            "en": "Stay out of sun until healed. Wear protective clothing. Use SPF 30+ sunscreen daily, reapply every 2 hours. Wear hats and sunglasses.",
+            "hi": "ठीक होने तक धूप से दूर रहें। सुरक्षात्मक कपड़े पहनें। रोज़ SPF 30+ सनस्क्रीन लगाएं, हर 2 घंटे में दोबारा लगाएं। टोपी और धूप का चश्मा पहनें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Severe pain or fever",
+          "hi": "तेज दर्द या बुखार"
+        },
+        {
+          "en": "Large blisters covering significant area",
+          "hi": "बड़े क्षेत्र में बड़े फफोले"
+        },
+        {
+          "en": "Headache, confusion, nausea, or chills",
+          "hi": "सिरदर्द, भ्रम, मतली या ठंड लगना"
+        },
+        {
+          "en": "Blistering on face, hands, or genitals",
+          "hi": "चेहरे, हाथ या जननांग पर फफोले"
+        },
+        {
+          "en": "Signs of infection: pus, swelling, red streaks",
+          "hi": "संक्रमण के संकेत: मवाद, सूजन, लाल धारियां"
+        }
+      ]
+    },
+    {
+      "id": "chemical",
+      "title": {
+        "en": "Chemical Burn",
+        "hi": "केमिकल से जलना"
+      },
+      "description": {
+        "en": "Burns from acids or chemicals",
+        "hi": "एसिड या रसायनों से जलना"
+      },
+      "imageUrl": "./images/chemical.jpg",
+      "subtitle": {
+        "en": "Skin damage from household or industrial chemicals",
+        "hi": "घरेलू या औद्योगिक रसायनों से त्वचा को नुकसान"
+      },
+      "heroImage": "./images/chemical.jpg",
+      "dos": [
+        {
+          "image": "./images/chemical/dos/step-1.jpg",
+          "text": {
+            "en": "Remove contaminated clothing immediately",
+            "hi": "संदूषित कपड़े तुरंत उतारें"
+          }
+        },
+        {
+          "image": "./images/chemical/dos/step-2.jpg",
+          "text": {
+            "en": "Flush with water for 20+ minutes",
+            "hi": "20+ मिनट तक पानी से धोएं"
+          }
+        },
+        {
+          "image": "./images/chemical/dos/step-3.jpg",
+          "text": {
+            "en": "Call emergency services immediately",
+            "hi": "तुरंत आपातकालीन सेवा बुलाएं"
+          }
+        },
+        {
+          "image": "./images/chemical/dos/step-4.jpg",
+          "text": {
+            "en": "Keep chemical container for identification",
+            "hi": "रसायन का कंटेनर पहचान के लिए रखें"
+          }
+        },
+        {
+          "image": "./images/chemical/dos/step-5.jpg",
+          "text": {
+            "en": "Cover with clean, dry cloth",
+            "hi": "साफ, सूखे कपड़े से ढकें"
+          }
+        },
+        {
+          "image": "./images/chemical/dos/step-6.jpg",
+          "text": {
+            "en": "Go to hospital for all chemical burns",
+            "hi": "सभी केमिकल जलन के लिए अस्पताल जाएं"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/chemical/donts/step-1.jpg",
+          "text": {
+            "en": "Don't neutralize with other chemicals",
+            "hi": "अन्य रसायनों से बेअसर न करें"
+          }
+        },
+        {
+          "image": "./images/chemical/donts/step-2.jpg",
+          "text": {
+            "en": "Don't apply creams or ointments",
+            "hi": "क्रीम या मलहम न लगाएं"
+          }
+        },
+        {
+          "image": "./images/chemical/donts/step-3.jpg",
+          "text": {
+            "en": "Don't use bandages or cotton",
+            "hi": "पट्टी या रूई न लगाएं"
+          }
+        },
+        {
+          "image": "./images/chemical/donts/step-4.jpg",
+          "text": {
+            "en": "Don't touch chemical with bare hands",
+            "hi": "नंगे हाथों से केमिकल न छुएं"
+          }
+        },
+        {
+          "image": "./images/chemical/donts/step-5.jpg",
+          "text": {
+            "en": "Don't delay seeking medical help",
+            "hi": "चिकित्सा सहायता में देरी न करें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Ensure Safety First",
+            "hi": "पहले सुरक्षा सुनिश्चित करें"
+          },
+          "description": {
+            "en": "Protect yourself. Wear gloves if available. Move victim away from chemical source. Ventilate area if indoors.",
+            "hi": "अपनी रक्षा करें। यदि उपलब्ध हो तो दस्ताने पहनें। पीड़ित को रसायन स्रोत से दूर ले जाएं। घर के अंदर हो तो हवा का प्रवाह बनाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Contaminated Clothing",
+            "hi": "संदूषित कपड़े उतारें"
+          },
+          "description": {
+            "en": "Quickly remove all clothing, jewelry, and shoes that have chemical on them. Cut off clothing if necessary rather than pulling over head.",
+            "hi": "जल्दी से उन सभी कपड़ों, गहनों और जूतों को उतारें जिन पर रसायन है। जरूरत हो तो सिर के ऊपर से खींचने के बजाय कपड़े काट दें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Flush with Water - 20+ Minutes",
+            "hi": "पानी से धोएं - 20+ मिनट"
+          },
+          "description": {
+            "en": "Immediately flush affected area with large amounts of running water for at least 20 minutes. For eyes, flush for 30 minutes. This is CRITICAL.",
+            "hi": "तुरंत प्रभावित क्षेत्र को कम से कम 20 मिनट तक बहुत सारे बहते पानी से धोएं। आंखों के लिए 30 मिनट धोएं। यह बहुत जरूरी है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Call Emergency Services (108/102)",
+            "hi": "आपातकालीन सेवा (108/102) बुलाएं"
+          },
+          "description": {
+            "en": "Call ambulance immediately. Provide information about the chemical if known. Keep the chemical container for medical team to see.",
+            "hi": "तुरंत एंबुलेंस बुलाएं। यदि पता हो तो रसायन के बारे में जानकारी दें। चिकित्सा टीम को देखने के लिए रसायन का कंटेनर रखें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover and Comfort",
+            "hi": "ढकें और आराम दें"
+          },
+          "description": {
+            "en": "After thorough washing, loosely cover burned area with clean, dry cloth or bandage. Keep victim warm and calm.",
+            "hi": "अच्छी तरह धोने के बाद, जले हुए क्षेत्र को साफ, सूखे कपड़े या पट्टी से ढीला ढकें। पीड़ित को गर्म और शांत रखें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Get to Hospital Immediately",
+            "hi": "तुरंत अस्पताल जाएं"
+          },
+          "description": {
+            "en": "ALL chemical burns require hospital evaluation. Chemical burns can cause deep tissue damage not visible on surface. Do not delay.",
+            "hi": "सभी केमिकल जलन का अस्पताल में मूल्यांकन जरूरी है। केमिकल जलन गहरे ऊतक नुकसान कर सकती है जो सतह पर दिखाई नहीं देता। देरी न करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "ALL chemical burns need hospital evaluation",
+          "hi": "सभी केमिकल जलन का अस्पताल में मूल्यांकन जरूरी है"
+        },
+        {
+          "en": "Chemical in eyes - flush 30 min, go to ER",
+          "hi": "आंखों में केमिकल - 30 मिनट धोएं, ER जाएं"
+        },
+        {
+          "en": "Burns deeper than surface layer",
+          "hi": "जलन सतह की परत से गहरी है"
+        },
+        {
+          "en": "Chemical ingested or inhaled",
+          "hi": "केमिकल निगल लिया या सांस में लिया"
+        },
+        {
+          "en": "Burns on large area, face, hands, or genitals",
+          "hi": "बड़े क्षेत्र, चेहरे, हाथ या जननांग पर जलन"
+        }
+      ]
+    },
+    {
+      "id": "exhaust",
+      "title": {
+        "en": "Exhaust / Silencer",
+        "hi": "एग्जॉस्ट / साइलेंसर"
+      },
+      "description": {
+        "en": "Burns from vehicle exhaust pipes",
+        "hi": "वाहन के साइलेंसर से जलना"
+      },
+      "imageUrl": "./images/exhaust.jpg",
+      "subtitle": {
+        "en": "Contact burns from motorcycle/vehicle exhaust",
+        "hi": "मोटरसाइकिल/वाहन के एग्जॉस्ट से संपर्क जलन"
+      },
+      "heroImage": "./images/exhaust.jpg",
+      "dos": [
+        {
+          "image": "./images/exhaust/dos/step-1.jpg",
+          "text": {
+            "en": "Move away from vehicle immediately",
+            "hi": "तुरंत वाहन से दूर हटें"
+          }
+        },
+        {
+          "image": "./images/exhaust/dos/step-2.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "./images/exhaust/dos/step-3.jpg",
+          "text": {
+            "en": "Remove jewelry and tight clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          }
+        },
+        {
+          "image": "./images/exhaust/dos/step-4.jpg",
+          "text": {
+            "en": "Apply aloe vera gel gently",
+            "hi": "एलोवेरा जेल धीरे से लगाएं"
+          }
+        },
+        {
+          "image": "./images/exhaust/dos/step-5.jpg",
+          "text": {
+            "en": "Cover with clean, loose bandage",
+            "hi": "साफ, ढीली पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "./images/exhaust/dos/step-6.jpg",
+          "text": {
+            "en": "Be careful around hot vehicles",
+            "hi": "गर्म वाहनों के आसपास सावधान रहें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "./images/exhaust/donts/step-1.jpg",
+          "text": {
+            "en": "Don't apply ice directly",
+            "hi": "बर्फ सीधे न लगाएं"
+          }
+        },
+        {
+          "image": "./images/exhaust/donts/step-2.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "./images/exhaust/donts/step-3.jpg",
+          "text": {
+            "en": "Don't apply toothpaste",
+            "hi": "टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "./images/exhaust/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "./images/exhaust/donts/step-5.jpg",
+          "text": {
+            "en": "Don't touch exhaust before it cools",
+            "hi": "ठंडा होने से पहले एग्जॉस्ट न छुएं"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Move Away from Vehicle",
+            "hi": "वाहन से दूर हटें"
+          },
+          "description": {
+            "en": "Immediately step away from the hot exhaust. Turn off engine if safe. Alert others to stay away.",
+            "hi": "तुरंत गर्म एग्जॉस्ट से दूर हटें। सुरक्षित हो तो इंजन बंद करें। दूसरों को दूर रहने के लिए कहें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool the Burn Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold the burned area (usually leg or hand) under cool running tap water for 15-20 minutes. This is the most critical step.",
+            "hi": "जले हुए हिस्से (आमतौर पर पैर या हाथ) को 15-20 मिनट तक ठंडे बहते पानी में रखें। यह सबसे जरूरी कदम है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Jewelry & Tight Clothing",
+            "hi": "गहने और तंग कपड़े उतारें"
+          },
+          "description": {
+            "en": "Gently remove anklets, shoes, socks, or tight clothing near the burn before swelling starts.",
+            "hi": "सूजन शुरू होने से पहले जले हुए हिस्से के पास की पायल, जूते, मोजे या तंग कपड़े धीरे से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Aloe Vera or Burn Cream",
+            "hi": "एलोवेरा या बर्न क्रीम लगाएं"
+          },
+          "description": {
+            "en": "After cooling, gently apply pure aloe vera gel or a medically approved burn cream. Never use butter, oil, or toothpaste.",
+            "hi": "ठंडा करने के बाद शुद्ध एलोवेरा जेल या बर्न क्रीम लगाएं। मक्खन, तेल या टूथपेस्ट कभी न लगाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover with Clean Bandage",
+            "hi": "साफ पट्टी से ढकें"
+          },
+          "description": {
+            "en": "Loosely wrap the burn with a sterile, non-stick bandage. Don't wrap tightly. Change daily.",
+            "hi": "जले हुए हिस्से को स्टेराइल, नॉन-स्टिक पट्टी से ढीला लपेटें। कसकर न बांधें। रोज़ बदलें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Monitor and Prevent Future Burns",
+            "hi": "निगरानी करें और भविष्य में जलन से बचें"
+          },
+          "description": {
+            "en": "Watch for infection. In future, wear protective footwear, avoid touching hot exhausts, and warn children about vehicle safety.",
+            "hi": "संक्रमण पर नज़र रखें। भविष्य में, सुरक्षात्मक जूते पहनें, गर्म एग्जॉस्ट छूने से बचें, और बच्चों को वाहन सुरक्षा के बारे में बताएं।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Burn is larger than your palm",
+          "hi": "जलन आपकी हथेली से बड़ी है"
+        },
+        {
+          "en": "Blisters have formed",
+          "hi": "फफोले बन गए हैं"
+        },
+        {
+          "en": "Burn is deep or skin looks charred",
+          "hi": "जलन गहरी है या त्वचा जली हुई दिखती है"
+        },
+        {
+          "en": "Severe pain that doesn't improve",
+          "hi": "तेज दर्द जो बेहतर नहीं हो रहा"
+        },
+        {
+          "en": "Victim is child, elderly, or pregnant",
+          "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
+        }
+      ]
+    }
+  ]
+}
