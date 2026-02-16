@@ -43,26 +43,14 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
       {/* Main Content */}
       <main className="flex flex-col w-full animate-in fade-in duration-300 pt-[60px]">
         
-        {/* Only show Hospital Banner and Section Title if NOT searching */}
-        {!isSearchOpen && (
-          <>
-            <HospitalBanner lang={lang} />
-            <div className="px-5 pt-8 pb-6 bg-white border-b border-gray-100">
-              <h2 className="text-[22px] font-bold text-medical-text mb-1">
-                {lang === 'en' ? 'First Aid Guides' : 'प्राथमिक उपचार गाइड'}
-              </h2>
-              <p className="text-[14px] text-medical-subtext">
-                {lang === 'en' ? 'Tap any guide for visual instructions' : 'दृश्य निर्देशों के लिए किसी भी गाइड पर टैप करें'}
-              </p>
-            </div>
-          </>
-        )}
+        {/* Hospital Banner as Hero Background (only when not searching) */}
+        {!isSearchOpen && <HospitalBanner lang={lang} />}
 
         {/* If searching, add some top padding */}
         {isSearchOpen && <div className="h-4" />}
 
-        {/* Search Results / Cards Grid */}
-        <div className="flex-1">
+        {/* Cards Container with Overlap */}
+        <div className="flex-1 -mt-32 relative z-10">
           {filteredGuides.length > 0 ? (
             <div className="grid grid-cols-2 gap-3 px-4 py-4">
               {filteredGuides.map((guide) => (

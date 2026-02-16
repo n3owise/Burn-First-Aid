@@ -64,7 +64,7 @@ export const EmergencyButton: React.FC = () => {
         >
           {/* The text is in a span to prevent wrapping and ensure smooth reveal */}
           <span className="whitespace-nowrap font-bold tracking-wide text-[16px]">
-            Call Emergency: 0581-2510204
+            Call Emergency 
           </span>
         </div>
       </a>
