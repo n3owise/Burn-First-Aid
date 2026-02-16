@@ -2,6 +2,7 @@
   "guides": [
     {
       "id": "hot-water",
+      "hidden": true,
       "title": {
         "en": "Hot Water / Steam",
         "hi": "गर्म पानी / भाप"
@@ -184,6 +185,7 @@
     },
     {
       "id": "hot-oil",
+      "hidden": true,
       "title": {
         "en": "Hot Oil / Grease",
         "hi": "गर्म तेल / घी"
@@ -365,14 +367,15 @@
       ]
     },
     {
+      "hidden": false,
       "id": "gas-stove",
       "title": {
-        "en": "Gas Stove / Flame",
-        "hi": "गैस स्टोव / आग"
+        "en": "Flame Burn",
+        "hi": "आग से जलना"
       },
       "description": {
-        "en": "Burns from direct fire or gas stove",
-        "hi": "सीधी आग या गैस स्टोव से जलना"
+        "en": "Burns from direct flame contact",
+        "hi": "सीधी आग के संपर्क से जलना"
       },
       "imageUrl": "/images/gas-stove.jpg",
       "subtitle": {
@@ -464,12 +467,12 @@
       "steps": [
         {
           "title": {
-            "en": "Turn Off Gas and Move Away",
-            "hi": "गैस बंद करें और दूर हटें"
+            "en": "Move Away From Flame",
+            "hi": "आग से दूर हटें"
           },
           "description": {
-            "en": "Immediately turn off the gas stove if safe to do so. Move away from the flame and heat source.",
-            "hi": "सुरक्षित होने पर तुरंत गैस स्टोव बंद करें। आग और गर्मी के स्रोत से दूर हटें।"
+            "en": "Immediately move away from the flame and heat source. Turn off the stove or fire if safe to do so.",
+            "hi": "तुरंत आग और गर्मी से दूर हटें। सुरक्षित हो तो स्टोव या आग बंद करें।"
           }
         },
         {
@@ -547,6 +550,7 @@
       ]
     },
     {
+      "hidden": true,
       "id": "hot-utensil",
       "title": {
         "en": "Hot Utensil / Pan",
@@ -729,6 +733,7 @@
       ]
     },
     {
+      "hidden": true,
       "id": "iron",
       "title": {
         "en": "Iron / Hot Metal",
@@ -911,6 +916,7 @@
       ]
     },
     {
+      "hidden": false,
       "id": "electrical",
       "title": {
         "en": "Electrical Burn",
@@ -1093,14 +1099,15 @@
       ]
     },
     {
+      "hidden": false,
       "id": "hot-milk",
       "title": {
-        "en": "Hot Milk / Liquid",
-        "hi": "गर्म दूध / तरल पदार्थ"
+        "en": "Hot Liquids Burn",
+        "hi": "गर्म तरल पदार्थ से जलना"
       },
       "description": {
-        "en": "Spills from hot milk or liquids",
-        "hi": "गर्म दूध या तरल पदार्थ गिरने से"
+        "en": "Burns from hot liquid spills and scalding",
+        "hi": "गर्म तरल पदार्थ के गिरने और छींटों से जलना"
       },
       "imageUrl": "/images/hot-milk.jpg",
       "subtitle": {
@@ -1275,6 +1282,7 @@
       ]
     },
     {
+      "hidden": false,
       "id": "candle",
       "title": {
         "en": "Candle / Wax",
@@ -1457,6 +1465,7 @@
       ]
     },
     {
+      "hidden": false,
       "id": "firecracker",
       "title": {
         "en": "Firecracker Burn",
@@ -1639,6 +1648,7 @@
       ]
     },
     {
+      "hidden": false,
       "id": "chemical",
       "title": {
         "en": "Chemical Burn",

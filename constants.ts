@@ -37,13 +37,15 @@ export interface GuideContentData {
   warnings: { en: string; hi: string }[];
 }
 
-// Load all burn guides from JSON file
-export const BURN_GUIDES: BurnGuide[] = burnsDataJson.guides.map(guide => ({
-  id: guide.id,
-  title: guide.title,
-  description: guide.description,
-  imageUrl: guide.imageUrl
-}));
+// Load all burn guides from JSON file (excluding hidden ones)
+export const BURN_GUIDES: BurnGuide[] = burnsDataJson.guides
+  .filter(guide => !guide.hidden)
+  .map(guide => ({
+    id: guide.id,
+    title: guide.title,
+    description: guide.description,
+    imageUrl: guide.imageUrl
+  }));
 
 // Function to get full guide data by ID
 export const getGuideDataById = (id: string): GuideContentData | undefined => {
