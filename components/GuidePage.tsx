@@ -1,5 +1,5 @@
 import React from 'react';
-import { ChevronLeft, X } from 'lucide-react';
+import { ChevronLeft, X, Check } from 'lucide-react';
 import { EmergencyButton } from './EmergencyButton';
 import { GuideContentData } from '../constants';
 import { LanguageToggle } from './LanguageToggle';
@@ -39,23 +39,13 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
 
       <main className="animate-in fade-in duration-300">
         {/* SECTION 2: HERO IMAGE (Compact) */}
-        <div className="relative w-full h-[100px] overflow-hidden shadow-sm bg-gray-100">
+        <div className="relative w-full h-[170px] overflow-hidden shadow-sm bg-gray-100">
           <img 
             src={guideData.heroImage} 
             alt="Hero" 
             className="w-full h-full object-cover object-center"
           />
           <div className="absolute bottom-0 left-0 right-0 h-10 bg-gradient-to-t from-black/20 to-transparent pointer-events-none" />
-        </div>
-
-        {/* SECTION 3: TITLE AREA (Compact) */}
-        <div className="px-4 pt-3 pb-2">
-          <h2 className="text-[20px] font-bold text-medical-text leading-tight mb-0.5 transition-opacity duration-200">
-            {guideData.title[lang]}
-          </h2>
-          <p className="text-[13px] text-medical-subtext leading-snug transition-opacity duration-200 line-clamp-1">
-            {guideData.subtitle[lang]}
-          </p>
         </div>
 
         {/* SECTION 4: WHAT TO DO (Compact 3-Column Grid) */}
@@ -66,8 +56,12 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
           <div className="grid grid-cols-3 gap-2">
             {guideData.dos.map((item, idx) => (
               <div key={idx} className="bg-white rounded-[8px] overflow-hidden shadow-sm border border-green-100 flex flex-col h-full">
-                <div className="aspect-square w-full bg-gray-100">
+                <div className="relative aspect-square w-full bg-gray-100">
                   <img src={item.image} alt="Do" className="w-full h-full object-cover" />
+                  <div className="absolute inset-0 bg-[#15803d]/10 pointer-events-none" />
+                  <div className="absolute top-1 right-1 bg-green-600 rounded-full p-0.5 shadow-md z-10">
+                    <Check className="w-2.5 h-2.5 text-white" />
+                  </div>
                 </div>
                 <div className="p-1.5 flex items-center justify-center flex-1 bg-white">
                   <p className="text-[10px] leading-3 text-center font-medium text-gray-700 line-clamp-3">

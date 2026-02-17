@@ -3,6 +3,8 @@ import { Header } from './Header';
 import { HospitalBanner } from './HospitalBanner';
 import { GuideCard } from './GuideCard';
 import { EmergencyButton } from './EmergencyButton';
+import { MarqueeCarousel } from './MarqueeCarousel';
+import { HomeFooter } from './HomeFooter';
 import { BURN_GUIDES } from '../constants';
 import { SearchX } from 'lucide-react';
 
@@ -42,15 +44,34 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
       
       {/* Main Content */}
       <main className="flex flex-col w-full animate-in fade-in duration-300 pt-[60px]">
+
+        {/* Marquee Carousel (only when not searching) */}
+        {!isSearchOpen && (
+          <section className="w-full px-4 pt-6">
+            <MarqueeCarousel />
+          </section>
+        )}
         
         {/* Hospital Banner as Hero Background (only when not searching) */}
         {!isSearchOpen && <HospitalBanner lang={lang} />}
 
+        {/* Title Section (only when not searching) */}
+        {!isSearchOpen && (
+          <div className="w-full px-4 py-8 text-center">
+            <h1 className="font-serif-display text-5xl md:text-6xl font-medium text-gray-900 mb-3 tracking-tight">
+              {lang === 'en' ? 'BURN FIRST AID' : 'जलन प्राथमिक चिकित्सा'}
+            </h1>
+            <p className="text-xl md:text-2xl text-gray-700 font-light">
+              {lang === 'en' ? 'By Eshan Hospital' : 'ईशान अस्पताल द्वारा'}
+            </p>
+          </div>
+        )}
+
         {/* If searching, add some top padding */}
         {isSearchOpen && <div className="h-4" />}
 
-        {/* Cards Container with Overlap */}
-        <div className="flex-1 -mt-32 relative z-10">
+        {/* Cards Container */}
+        <div className="flex-1 relative z-10">
           {filteredGuides.length > 0 ? (
             <div className="grid grid-cols-2 gap-3 px-4 py-4">
               {filteredGuides.map((guide) => (
@@ -77,6 +98,8 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
             </div>
           )}
         </div>
+
+        <HomeFooter lang={lang} />
       </main>
 
       {/* Floating Emergency Button */}

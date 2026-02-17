@@ -88,34 +88,9 @@ export const Header: React.FC<HeaderProps> = ({
       ) : (
         // DEFAULT MODE
         <>
-          {/* Search Icon (Left) - Always visible */}
-          <button 
-            onClick={() => setIsSearchOpen(true)}
-            className="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center shrink-0 border border-gray-100 active:bg-gray-200 active:scale-95 transition-all"
-            aria-label="Search"
-          >
-            <Search className="w-5 h-5 text-medical-text" />
-          </button>
-
-          {/* Expanding search input - grows from icon */}
-          <div
-            className="overflow-hidden flex items-center"
-            style={{
-              maxWidth: scrollProgress > 0.1 ? '200px' : '0px',
-              opacity: scrollProgress,
-              marginLeft: scrollProgress > 0.1 ? '8px' : '0px',
-              transition: 'max-width 800ms ease-in-out, opacity 800ms ease-in-out, margin-left 800ms ease-in-out',
-              willChange: 'max-width, opacity, margin-left',
-              transform: 'translateZ(0)',
-              backfaceVisibility: 'hidden'
-            }}
-          >
-            <input
-              type="text"
-              placeholder={lang === 'en' ? "Search..." : "खोजें..."}
-              className="h-9 bg-gray-100 rounded-lg px-2 text-[14px] text-medical-text placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-medical-red/20 w-full"
-              onClick={() => setIsSearchOpen(true)}
-            />
+          {/* Language Toggle (Left) */}
+          <div>
+            <LanguageToggle lang={lang} setLang={setLang} />
           </div>
 
           {/* Title (Center) - Fades when scrolled */}
@@ -133,11 +108,36 @@ export const Header: React.FC<HeaderProps> = ({
               {lang === 'en' ? 'Burn First Aid' : 'बर्न फर्स्ट एड'}
             </h1>
           </div>
-          
-          {/* Language Toggle (Right) */}
-          <div className="ml-auto">
-            <LanguageToggle lang={lang} setLang={setLang} />
+
+          {/* Expanding search input - grows from icon */}
+          <div
+            className="overflow-hidden flex items-center"
+            style={{
+              maxWidth: scrollProgress > 0.1 ? '200px' : '0px',
+              opacity: scrollProgress,
+              marginRight: scrollProgress > 0.1 ? '8px' : '0px',
+              transition: 'max-width 800ms ease-in-out, opacity 800ms ease-in-out, margin-right 800ms ease-in-out',
+              willChange: 'max-width, opacity, margin-right',
+              transform: 'translateZ(0)',
+              backfaceVisibility: 'hidden'
+            }}
+          >
+            <input
+              type="text"
+              placeholder={lang === 'en' ? "Search..." : "खोजें..."}
+              className="h-9 bg-gray-100 rounded-lg px-2 text-[14px] text-medical-text placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-medical-red/20 w-full"
+              onClick={() => setIsSearchOpen(true)}
+            />
           </div>
+          
+          {/* Search Icon (Right) - Always visible */}
+          <button 
+            onClick={() => setIsSearchOpen(true)}
+            className="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center shrink-0 border border-gray-100 active:bg-gray-200 active:scale-95 transition-all"
+            aria-label="Search"
+          >
+            <Search className="w-5 h-5 text-medical-text" />
+          </button>
         </>
       )}
     </header>

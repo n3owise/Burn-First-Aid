@@ -382,7 +382,7 @@
         "en": "Direct flame contact while cooking",
         "hi": "खाना पकाते समय सीधी आग के संपर्क से"
       },
-      "heroImage": "/images/gas-stove.jpg",
+      "heroImage": "/images/gas-stove-banner.jpg",
       "dos": [
         {
           "image": "/images/gas-stove/dos/step-1.jpg",
@@ -748,7 +748,7 @@
         "en": "Contact injury from ironing or hot metal surfaces",
         "hi": "इस्त्री करते या गर्म धातु की सतह छूने से चोट"
       },
-      "heroImage": "/images/iron.jpg",
+      "heroImage": "/images/iron-banner.jpg",
       "dos": [
         {
           "image": "/images/iron/dos/step-1.jpg",
@@ -917,6 +917,189 @@
     },
     {
       "hidden": false,
+      "id": "firecracker",
+      "title": {
+        "en": "Firecracker Burn",
+        "hi": "पटाखे से जलना"
+      },
+      "description": {
+        "en": "Diwali and firecracker injuries",
+        "hi": "दिवाली और पटाखों से चोट"
+      },
+      "imageUrl": "/images/firecracker.jpg",
+      "subtitle": {
+        "en": "Burns and injuries from fireworks and crackers",
+        "hi": "आतिशबाजी और पटाखों से जलना और चोट"
+      },
+      "heroImage": "/images/firecracker-banner.jpg",
+      "dos": [
+        {
+          "image": "/images/firecracker/dos/step-1.jpg",
+          "text": {
+            "en": "Move to safe area immediately",
+            "hi": "तुरंत सुरक्षित क्षेत्र में जाएं"
+          }
+        },
+        {
+          "image": "/images/firecracker/dos/step-2.jpg",
+          "text": {
+            "en": "Cool under running water for 20 minutes",
+            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
+          }
+        },
+        {
+          "image": "/images/firecracker/dos/step-3.jpg",
+          "text": {
+            "en": "Check for eye or hearing injuries",
+            "hi": "आंख या सुनने में चोट की जांच करें"
+          }
+        },
+        {
+          "image": "/images/firecracker/dos/step-4.jpg",
+          "text": {
+            "en": "Cover burns with clean bandage",
+            "hi": "जले हिस्से को साफ पट्टी से ढकें"
+          }
+        },
+        {
+          "image": "/images/firecracker/dos/step-5.jpg",
+          "text": {
+            "en": "Go to hospital for severe burns",
+            "hi": "गंभीर जलन के लिए अस्पताल जाएं"
+          }
+        },
+        {
+          "image": "/images/firecracker/dos/step-6.jpg",
+          "text": {
+            "en": "Keep emergency number ready",
+            "hi": "आपातकालीन नंबर तैयार रखें"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "/images/firecracker/donts/step-1.jpg",
+          "text": {
+            "en": "Don't relight failed crackers",
+            "hi": "फेल हुए पटाखे फिर से न जलाएं"
+          }
+        },
+        {
+          "image": "/images/firecracker/donts/step-2.jpg",
+          "text": {
+            "en": "Don't apply ice or toothpaste",
+            "hi": "बर्फ या टूथपेस्ट न लगाएं"
+          }
+        },
+        {
+          "image": "/images/firecracker/donts/step-3.jpg",
+          "text": {
+            "en": "Don't use butter or ghee",
+            "hi": "मक्खन या घी न लगाएं"
+          }
+        },
+        {
+          "image": "/images/firecracker/donts/step-4.jpg",
+          "text": {
+            "en": "Don't burst blisters",
+            "hi": "फफोले न फोड़ें"
+          }
+        },
+        {
+          "image": "/images/firecracker/donts/step-5.jpg",
+          "text": {
+            "en": "Don't rub eyes if injured",
+            "hi": "चोट लगने पर आंखें न रगड़ें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Move to Safe Area",
+            "hi": "सुरक्षित क्षेत्र में जाएं"
+          },
+          "description": {
+            "en": "Immediately move away from firecrackers and fireworks. Ensure no clothing is on fire. Stop, drop, and roll if needed.",
+            "hi": "तुरंत पटाखों और आतिशबाजी से दूर हटें। सुनिश्चित करें कि कोई कपड़ा आग में नहीं है। जरूरत हो तो रुकें, गिरें और लुढ़कें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cool Burns Under Running Water",
+            "hi": "बहते पानी में जलन ठंडी करें"
+          },
+          "description": {
+            "en": "Hold burned areas under cool running water for 15-20 minutes. Remove jewelry and tight clothing carefully.",
+            "hi": "जले हुए हिस्सों को 15-20 मिनट तक ठंडे बहते पानी में रखें। गहनों और तंग कपड़ों को सावधानी से उतारें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Check for Additional Injuries",
+            "hi": "अतिरिक्त चोटों की जांच करें"
+          },
+          "description": {
+            "en": "Check eyes, ears, and hands carefully. Firecracker injuries can affect vision and hearing. If any damage, seek immediate medical help.",
+            "hi": "आंखों, कानों और हाथों की सावधानी से जांच करें। पटाखे की चोट से दृष्टि और सुनने की क्षमता प्रभावित हो सकती है। कोई नुकसान हो तो तुरंत चिकित्सा सहायता लें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Apply Burn Cream and Cover",
+            "hi": "बर्न क्रीम लगाएं और ढकें"
+          },
+          "description": {
+            "en": "After cooling, apply aloe vera or burn cream. Cover with sterile, non-stick bandage.",
+            "hi": "ठंडा करने के बाद एलोवेरा या बर्न क्रीम लगाएं। स्टेराइल, नॉन-स्टिक पट्टी से ढकें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Seek Medical Attention",
+            "hi": "चिकित्सा सहायता लें"
+          },
+          "description": {
+            "en": "Firecracker burns are often deep. Visit a hospital, especially if burn is large, on face/hands, or if there's eye/ear injury.",
+            "hi": "पटाखे की जलन अक्सर गहरी होती है। अस्पताल जाएं, खासकर अगर जलन बड़ी हो, चेहरे/हाथों पर हो, या आंख/कान में चोट हो।"
+          }
+        },
+        {
+          "title": {
+            "en": "Prevention for Future",
+            "hi": "भविष्य के लिए रोकथाम"
+          },
+          "description": {
+            "en": "Use long sparklers, keep water buckets nearby, wear cotton clothes, maintain safe distance, and supervise children always.",
+            "hi": "लंबे स्पार्कलर्स उपयोग करें, पानी की बाल्टी पास रखें, सूती कपड़े पहनें, सुरक्षित दूरी बनाए रखें, और बच्चों की हमेशा निगरानी करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "Eye injury or vision problems",
+          "hi": "आंख में चोट या दृष्टि समस्याएं"
+        },
+        {
+          "en": "Hearing loss or ear damage",
+          "hi": "सुनने में कमी या कान को नुकसान"
+        },
+        {
+          "en": "Burns on face, hands, or genitals",
+          "hi": "चेहरे, हाथ या जननांग पर जलन"
+        },
+        {
+          "en": "Deep or large burn areas",
+          "hi": "गहरी या बड़ी जले हुए क्षेत्र"
+        },
+        {
+          "en": "Blisters, charred skin, or severe pain",
+          "hi": "फफोले, जली हुई त्वचा या तेज दर्द"
+        }
+      ]
+    },
+    {
+      "hidden": false,
       "id": "electrical",
       "title": {
         "en": "Electrical Burn",
@@ -931,7 +1114,7 @@
         "en": "Injury from electrical current or shock",
         "hi": "बिजली के करंट या झटके से चोट"
       },
-      "heroImage": "/images/electrical.jpg",
+      "heroImage": "/images/electrical-banner.jpg",
       "dos": [
         {
           "image": "/images/electrical/dos/step-1.jpg",
@@ -1100,6 +1283,189 @@
     },
     {
       "hidden": false,
+      "id": "chemical",
+      "title": {
+        "en": "Chemical Burn",
+        "hi": "केमिकल से जलना"
+      },
+      "description": {
+        "en": "Burns from acids or chemicals",
+        "hi": "एसिड या रसायनों से जलना"
+      },
+      "imageUrl": "/images/chemical.jpg",
+      "subtitle": {
+        "en": "Skin damage from household or industrial chemicals",
+        "hi": "घरेलू या औद्योगिक रसायनों से त्वचा को नुकसान"
+      },
+      "heroImage": "/images/chemical-banner.jpg",
+      "dos": [
+        {
+          "image": "/images/chemical/dos/step-1.jpg",
+          "text": {
+            "en": "Remove contaminated clothing immediately",
+            "hi": "संदूषित कपड़े तुरंत उतारें"
+          }
+        },
+        {
+          "image": "/images/chemical/dos/step-2.jpg",
+          "text": {
+            "en": "Flush with water for 20+ minutes",
+            "hi": "20+ मिनट तक पानी से धोएं"
+          }
+        },
+        {
+          "image": "/images/chemical/dos/step-3.jpg",
+          "text": {
+            "en": "Call emergency services immediately",
+            "hi": "तुरंत आपातकालीन सेवा बुलाएं"
+          }
+        },
+        {
+          "image": "/images/chemical/dos/step-4.jpg",
+          "text": {
+            "en": "Keep chemical container for identification",
+            "hi": "रसायन का कंटेनर पहचान के लिए रखें"
+          }
+        },
+        {
+          "image": "/images/chemical/dos/step-5.jpg",
+          "text": {
+            "en": "Cover with clean, dry cloth",
+            "hi": "साफ, सूखे कपड़े से ढकें"
+          }
+        },
+        {
+          "image": "/images/chemical/dos/step-6.jpg",
+          "text": {
+            "en": "Go to hospital for all chemical burns",
+            "hi": "सभी केमिकल जलन के लिए अस्पताल जाएं"
+          }
+        }
+      ],
+      "donts": [
+        {
+          "image": "/images/chemical/donts/step-1.jpg",
+          "text": {
+            "en": "Don't neutralize with other chemicals",
+            "hi": "अन्य रसायनों से बेअसर न करें"
+          }
+        },
+        {
+          "image": "/images/chemical/donts/step-2.jpg",
+          "text": {
+            "en": "Don't apply creams or ointments",
+            "hi": "क्रीम या मलहम न लगाएं"
+          }
+        },
+        {
+          "image": "/images/chemical/donts/step-3.jpg",
+          "text": {
+            "en": "Don't use bandages or cotton",
+            "hi": "पट्टी या रूई न लगाएं"
+          }
+        },
+        {
+          "image": "/images/chemical/donts/step-4.jpg",
+          "text": {
+            "en": "Don't touch chemical with bare hands",
+            "hi": "नंगे हाथों से केमिकल न छुएं"
+          }
+        },
+        {
+          "image": "/images/chemical/donts/step-5.jpg",
+          "text": {
+            "en": "Don't delay seeking medical help",
+            "hi": "चिकित्सा सहायता में देरी न करें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "en": "Ensure Safety First",
+            "hi": "पहले सुरक्षा सुनिश्चित करें"
+          },
+          "description": {
+            "en": "Protect yourself. Wear gloves if available. Move victim away from chemical source. Ventilate area if indoors.",
+            "hi": "अपनी रक्षा करें। यदि उपलब्ध हो तो दस्ताने पहनें। पीड़ित को रसायन स्रोत से दूर ले जाएं। घर के अंदर हो तो हवा का प्रवाह बनाएं।"
+          }
+        },
+        {
+          "title": {
+            "en": "Remove Contaminated Clothing",
+            "hi": "संदूषित कपड़े उतारें"
+          },
+          "description": {
+            "en": "Quickly remove all clothing, jewelry, and shoes that have chemical on them. Cut off clothing if necessary rather than pulling over head.",
+            "hi": "जल्दी से उन सभी कपड़ों, गहनों और जूतों को उतारें जिन पर रसायन है। जरूरत हो तो सिर के ऊपर से खींचने के बजाय कपड़े काट दें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Flush with Water - 20+ Minutes",
+            "hi": "पानी से धोएं - 20+ मिनट"
+          },
+          "description": {
+            "en": "Immediately flush affected area with large amounts of running water for at least 20 minutes. For eyes, flush for 30 minutes. This is CRITICAL.",
+            "hi": "तुरंत प्रभावित क्षेत्र को कम से कम 20 मिनट तक बहुत सारे बहते पानी से धोएं। आंखों के लिए 30 मिनट धोएं। यह बहुत जरूरी है।"
+          }
+        },
+        {
+          "title": {
+            "en": "Call Emergency Services (108/102)",
+            "hi": "आपातकालीन सेवा (108/102) बुलाएं"
+          },
+          "description": {
+            "en": "Call ambulance immediately. Provide information about the chemical if known. Keep the chemical container for medical team to see.",
+            "hi": "तुरंत एंबुलेंस बुलाएं। यदि पता हो तो रसायन के बारे में जानकारी दें। चिकित्सा टीम को देखने के लिए रसायन का कंटेनर रखें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Cover and Comfort",
+            "hi": "ढकें और आराम दें"
+          },
+          "description": {
+            "en": "After thorough washing, loosely cover burned area with clean, dry cloth or bandage. Keep victim warm and calm.",
+            "hi": "अच्छी तरह धोने के बाद, जले हुए क्षेत्र को साफ, सूखे कपड़े या पट्टी से ढीला ढकें। पीड़ित को गर्म और शांत रखें।"
+          }
+        },
+        {
+          "title": {
+            "en": "Get to Hospital Immediately",
+            "hi": "तुरंत अस्पताल जाएं"
+          },
+          "description": {
+            "en": "ALL chemical burns require hospital evaluation. Chemical burns can cause deep tissue damage not visible on surface. Do not delay.",
+            "hi": "सभी केमिकल जलन का अस्पताल में मूल्यांकन जरूरी है। केमिकल जलन गहरे ऊतक नुकसान कर सकती है जो सतह पर दिखाई नहीं देता। देरी न करें।"
+          }
+        }
+      ],
+      "warnings": [
+        {
+          "en": "ALL chemical burns need hospital evaluation",
+          "hi": "सभी केमिकल जलन का अस्पताल में मूल्यांकन जरूरी है"
+        },
+        {
+          "en": "Chemical in eyes - flush 30 min, go to ER",
+          "hi": "आंखों में केमिकल - 30 मिनट धोएं, ER जाएं"
+        },
+        {
+          "en": "Burns deeper than surface layer",
+          "hi": "जलन सतह की परत से गहरी है"
+        },
+        {
+          "en": "Chemical ingested or inhaled",
+          "hi": "केमिकल निगल लिया या सांस में लिया"
+        },
+        {
+          "en": "Burns on large area, face, hands, or genitals",
+          "hi": "बड़े क्षेत्र, चेहरे, हाथ या जननांग पर जलन"
+        }
+      ]
+    },
+    {
+      "hidden": false,
       "id": "hot-milk",
       "title": {
         "en": "Hot Liquids Burn",
@@ -1114,7 +1480,7 @@
         "en": "Scalding from hot beverages and liquids",
         "hi": "गर्म पेय और तरल पदार्थ से जलना"
       },
-      "heroImage": "/images/hot-milk.jpg",
+      "heroImage": "/images/hot-milk-banner.jpg",
       "dos": [
         {
           "image": "/images/hot-milk/dos/step-1.jpg",
@@ -1297,7 +1663,7 @@
         "en": "Burns from candle flame or hot wax drips",
         "hi": "मोमबत्ती की लौ या गर्म मोम की बूंदों से जलना"
       },
-      "heroImage": "/images/candle.jpg",
+      "heroImage": "/images/candle-banner.jpg",
       "dos": [
         {
           "image": "/images/candle/dos/step-1.jpg",
@@ -1324,7 +1690,7 @@
           "image": "/images/candle/dos/step-4.jpg",
           "text": {
             "en": "Cover with clean, loose bandage",
-            "hi": "साफ, ढीली पट्टी से ढकें"
+            "hi": "साफ, ढ़ीली पट्टी से ढकें"
           }
         },
         {
@@ -1461,372 +1827,6 @@
         {
           "en": "Victim is child, elderly, or pregnant",
           "hi": "पीड़ित बच्चा, बुजुर्ग या गर्भवती है"
-        }
-      ]
-    },
-    {
-      "hidden": false,
-      "id": "firecracker",
-      "title": {
-        "en": "Firecracker Burn",
-        "hi": "पटाखे से जलना"
-      },
-      "description": {
-        "en": "Diwali and firecracker injuries",
-        "hi": "दिवाली और पटाखों से चोट"
-      },
-      "imageUrl": "/images/firecracker.jpg",
-      "subtitle": {
-        "en": "Burns and injuries from fireworks and crackers",
-        "hi": "आतिशबाजी और पटाखों से जलना और चोट"
-      },
-      "heroImage": "/images/firecracker.jpg",
-      "dos": [
-        {
-          "image": "/images/firecracker/dos/step-1.jpg",
-          "text": {
-            "en": "Move to safe area immediately",
-            "hi": "तुरंत सुरक्षित क्षेत्र में जाएं"
-          }
-        },
-        {
-          "image": "/images/firecracker/dos/step-2.jpg",
-          "text": {
-            "en": "Cool under running water for 20 minutes",
-            "hi": "20 मिनट तक बहते पानी में ठंडा करें"
-          }
-        },
-        {
-          "image": "/images/firecracker/dos/step-3.jpg",
-          "text": {
-            "en": "Check for eye or hearing injuries",
-            "hi": "आंख या सुनने में चोट की जांच करें"
-          }
-        },
-        {
-          "image": "/images/firecracker/dos/step-4.jpg",
-          "text": {
-            "en": "Cover burns with clean bandage",
-            "hi": "जले हिस्से को साफ पट्टी से ढकें"
-          }
-        },
-        {
-          "image": "/images/firecracker/dos/step-5.jpg",
-          "text": {
-            "en": "Go to hospital for severe burns",
-            "hi": "गंभीर जलन के लिए अस्पताल जाएं"
-          }
-        },
-        {
-          "image": "/images/firecracker/dos/step-6.jpg",
-          "text": {
-            "en": "Keep emergency number ready",
-            "hi": "आपातकालीन नंबर तैयार रखें"
-          }
-        }
-      ],
-      "donts": [
-        {
-          "image": "/images/firecracker/donts/step-1.jpg",
-          "text": {
-            "en": "Don't relight failed crackers",
-            "hi": "फेल हुए पटाखे फिर से न जलाएं"
-          }
-        },
-        {
-          "image": "/images/firecracker/donts/step-2.jpg",
-          "text": {
-            "en": "Don't apply ice or toothpaste",
-            "hi": "बर्फ या टूथपेस्ट न लगाएं"
-          }
-        },
-        {
-          "image": "/images/firecracker/donts/step-3.jpg",
-          "text": {
-            "en": "Don't use butter or ghee",
-            "hi": "मक्खन या घी न लगाएं"
-          }
-        },
-        {
-          "image": "/images/firecracker/donts/step-4.jpg",
-          "text": {
-            "en": "Don't burst blisters",
-            "hi": "फफोले न फोड़ें"
-          }
-        },
-        {
-          "image": "/images/firecracker/donts/step-5.jpg",
-          "text": {
-            "en": "Don't rub eyes if injured",
-            "hi": "चोट लगने पर आंखें न रगड़ें"
-          }
-        }
-      ],
-      "steps": [
-        {
-          "title": {
-            "en": "Move to Safe Area",
-            "hi": "सुरक्षित क्षेत्र में जाएं"
-          },
-          "description": {
-            "en": "Immediately move away from firecrackers and fireworks. Ensure no clothing is on fire. Stop, drop, and roll if needed.",
-            "hi": "तुरंत पटाखों और आतिशबाजी से दूर हटें। सुनिश्चित करें कि कोई कपड़ा आग में नहीं है। जरूरत हो तो रुकें, गिरें और लुढ़कें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Cool Burns Under Running Water",
-            "hi": "बहते पानी में जलन ठंडी करें"
-          },
-          "description": {
-            "en": "Hold burned areas under cool running water for 15-20 minutes. Remove jewelry and tight clothing carefully.",
-            "hi": "जले हुए हिस्सों को 15-20 मिनट तक ठंडे बहते पानी में रखें। गहनों और तंग कपड़ों को सावधानी से उतारें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Check for Additional Injuries",
-            "hi": "अतिरिक्त चोटों की जांच करें"
-          },
-          "description": {
-            "en": "Check eyes, ears, and hands carefully. Firecracker injuries can affect vision and hearing. If any damage, seek immediate medical help.",
-            "hi": "आंखों, कानों और हाथों की सावधानी से जांच करें। पटाखे की चोट से दृष्टि और सुनने की क्षमता प्रभावित हो सकती है। कोई नुकसान हो तो तुरंत चिकित्सा सहायता लें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Apply Burn Cream and Cover",
-            "hi": "बर्न क्रीम लगाएं और ढकें"
-          },
-          "description": {
-            "en": "After cooling, apply aloe vera or burn cream. Cover with sterile, non-stick bandage.",
-            "hi": "ठंडा करने के बाद एलोवेरा या बर्न क्रीम लगाएं। स्टेराइल, नॉन-स्टिक पट्टी से ढकें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Seek Medical Attention",
-            "hi": "चिकित्सा सहायता लें"
-          },
-          "description": {
-            "en": "Firecracker burns are often deep. Visit a hospital, especially if burn is large, on face/hands, or if there's eye/ear injury.",
-            "hi": "पटाखे की जलन अक्सर गहरी होती है। अस्पताल जाएं, खासकर अगर जलन बड़ी हो, चेहरे/हाथों पर हो, या आंख/कान में चोट हो।"
-          }
-        },
-        {
-          "title": {
-            "en": "Prevention for Future",
-            "hi": "भविष्य के लिए रोकथाम"
-          },
-          "description": {
-            "en": "Use long sparklers, keep water buckets nearby, wear cotton clothes, maintain safe distance, and supervise children always.",
-            "hi": "लंबे स्पार्कलर्स उपयोग करें, पानी की बाल्टी पास रखें, सूती कपड़े पहनें, सुरक्षित दूरी बनाए रखें, और बच्चों की हमेशा निगरानी करें।"
-          }
-        }
-      ],
-      "warnings": [
-        {
-          "en": "Eye injury or vision problems",
-          "hi": "आंख में चोट या दृष्टि समस्याएं"
-        },
-        {
-          "en": "Hearing loss or ear damage",
-          "hi": "सुनने में कमी या कान को नुकसान"
-        },
-        {
-          "en": "Burns on face, hands, or genitals",
-          "hi": "चेहरे, हाथ या जननांग पर जलन"
-        },
-        {
-          "en": "Deep or large burn areas",
-          "hi": "गहरी या बड़ी जले हुए क्षेत्र"
-        },
-        {
-          "en": "Blisters, charred skin, or severe pain",
-          "hi": "फफोले, जली हुई त्वचा या तेज दर्द"
-        }
-      ]
-    },
-    {
-      "hidden": false,
-      "id": "chemical",
-      "title": {
-        "en": "Chemical Burn",
-        "hi": "केमिकल से जलना"
-      },
-      "description": {
-        "en": "Burns from acids or chemicals",
-        "hi": "एसिड या रसायनों से जलना"
-      },
-      "imageUrl": "/images/chemical.jpg",
-      "subtitle": {
-        "en": "Skin damage from household or industrial chemicals",
-        "hi": "घरेलू या औद्योगिक रसायनों से त्वचा को नुकसान"
-      },
-      "heroImage": "/images/chemical.jpg",
-      "dos": [
-        {
-          "image": "/images/chemical/dos/step-1.jpg",
-          "text": {
-            "en": "Remove contaminated clothing immediately",
-            "hi": "संदूषित कपड़े तुरंत उतारें"
-          }
-        },
-        {
-          "image": "/images/chemical/dos/step-2.jpg",
-          "text": {
-            "en": "Flush with water for 20+ minutes",
-            "hi": "20+ मिनट तक पानी से धोएं"
-          }
-        },
-        {
-          "image": "/images/chemical/dos/step-3.jpg",
-          "text": {
-            "en": "Call emergency services immediately",
-            "hi": "तुरंत आपातकालीन सेवा बुलाएं"
-          }
-        },
-        {
-          "image": "/images/chemical/dos/step-4.jpg",
-          "text": {
-            "en": "Keep chemical container for identification",
-            "hi": "रसायन का कंटेनर पहचान के लिए रखें"
-          }
-        },
-        {
-          "image": "/images/chemical/dos/step-5.jpg",
-          "text": {
-            "en": "Cover with clean, dry cloth",
-            "hi": "साफ, सूखे कपड़े से ढकें"
-          }
-        },
-        {
-          "image": "/images/chemical/dos/step-6.jpg",
-          "text": {
-            "en": "Go to hospital for all chemical burns",
-            "hi": "सभी केमिकल जलन के लिए अस्पताल जाएं"
-          }
-        }
-      ],
-      "donts": [
-        {
-          "image": "/images/chemical/donts/step-1.jpg",
-          "text": {
-            "en": "Don't neutralize with other chemicals",
-            "hi": "अन्य रसायनों से बेअसर न करें"
-          }
-        },
-        {
-          "image": "/images/chemical/donts/step-2.jpg",
-          "text": {
-            "en": "Don't apply creams or ointments",
-            "hi": "क्रीम या मलहम न लगाएं"
-          }
-        },
-        {
-          "image": "/images/chemical/donts/step-3.jpg",
-          "text": {
-            "en": "Don't use bandages or cotton",
-            "hi": "पट्टी या रूई न लगाएं"
-          }
-        },
-        {
-          "image": "/images/chemical/donts/step-4.jpg",
-          "text": {
-            "en": "Don't touch chemical with bare hands",
-            "hi": "नंगे हाथों से केमिकल न छुएं"
-          }
-        },
-        {
-          "image": "/images/chemical/donts/step-5.jpg",
-          "text": {
-            "en": "Don't delay seeking medical help",
-            "hi": "चिकित्सा सहायता में देरी न करें"
-          }
-        }
-      ],
-      "steps": [
-        {
-          "title": {
-            "en": "Ensure Safety First",
-            "hi": "पहले सुरक्षा सुनिश्चित करें"
-          },
-          "description": {
-            "en": "Protect yourself. Wear gloves if available. Move victim away from chemical source. Ventilate area if indoors.",
-            "hi": "अपनी रक्षा करें। यदि उपलब्ध हो तो दस्ताने पहनें। पीड़ित को रसायन स्रोत से दूर ले जाएं। घर के अंदर हो तो हवा का प्रवाह बनाएं।"
-          }
-        },
-        {
-          "title": {
-            "en": "Remove Contaminated Clothing",
-            "hi": "संदूषित कपड़े उतारें"
-          },
-          "description": {
-            "en": "Quickly remove all clothing, jewelry, and shoes that have chemical on them. Cut off clothing if necessary rather than pulling over head.",
-            "hi": "जल्दी से उन सभी कपड़ों, गहनों और जूतों को उतारें जिन पर रसायन है। जरूरत हो तो सिर के ऊपर से खींचने के बजाय कपड़े काट दें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Flush with Water - 20+ Minutes",
-            "hi": "पानी से धोएं - 20+ मिनट"
-          },
-          "description": {
-            "en": "Immediately flush affected area with large amounts of running water for at least 20 minutes. For eyes, flush for 30 minutes. This is CRITICAL.",
-            "hi": "तुरंत प्रभावित क्षेत्र को कम से कम 20 मिनट तक बहुत सारे बहते पानी से धोएं। आंखों के लिए 30 मिनट धोएं। यह बहुत जरूरी है।"
-          }
-        },
-        {
-          "title": {
-            "en": "Call Emergency Services (108/102)",
-            "hi": "आपातकालीन सेवा (108/102) बुलाएं"
-          },
-          "description": {
-            "en": "Call ambulance immediately. Provide information about the chemical if known. Keep the chemical container for medical team to see.",
-            "hi": "तुरंत एंबुलेंस बुलाएं। यदि पता हो तो रसायन के बारे में जानकारी दें। चिकित्सा टीम को देखने के लिए रसायन का कंटेनर रखें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Cover and Comfort",
-            "hi": "ढकें और आराम दें"
-          },
-          "description": {
-            "en": "After thorough washing, loosely cover burned area with clean, dry cloth or bandage. Keep victim warm and calm.",
-            "hi": "अच्छी तरह धोने के बाद, जले हुए क्षेत्र को साफ, सूखे कपड़े या पट्टी से ढीला ढकें। पीड़ित को गर्म और शांत रखें।"
-          }
-        },
-        {
-          "title": {
-            "en": "Get to Hospital Immediately",
-            "hi": "तुरंत अस्पताल जाएं"
-          },
-          "description": {
-            "en": "ALL chemical burns require hospital evaluation. Chemical burns can cause deep tissue damage not visible on surface. Do not delay.",
-            "hi": "सभी केमिकल जलन का अस्पताल में मूल्यांकन जरूरी है। केमिकल जलन गहरे ऊतक नुकसान कर सकती है जो सतह पर दिखाई नहीं देता। देरी न करें।"
-          }
-        }
-      ],
-      "warnings": [
-        {
-          "en": "ALL chemical burns need hospital evaluation",
-          "hi": "सभी केमिकल जलन का अस्पताल में मूल्यांकन जरूरी है"
-        },
-        {
-          "en": "Chemical in eyes - flush 30 min, go to ER",
-          "hi": "आंखों में केमिकल - 30 मिनट धोएं, ER जाएं"
-        },
-        {
-          "en": "Burns deeper than surface layer",
-          "hi": "जलन सतह की परत से गहरी है"
-        },
-        {
-          "en": "Chemical ingested or inhaled",
-          "hi": "केमिकल निगल लिया या सांस में लिया"
-        },
-        {
-          "en": "Burns on large area, face, hands, or genitals",
-          "hi": "बड़े क्षेत्र, चेहरे, हाथ या जननांग पर जलन"
         }
       ]
     }

@@ -37,6 +37,23 @@ export interface GuideContentData {
   warnings: { en: string; hi: string }[];
 }
 
+export interface HomeFooterData {
+  heading: { en: string; hi: string };
+  doctorName: string;
+  qualifications: string;
+  specialty: string;
+  experienceTitle: string;
+  experienceSubtitle: string;
+  hospitalName: string;
+  addressLine1: string;
+  addressLine2: string;
+  phone: string;
+  whatsappLabel: string;
+  email: string;
+  website: string;
+  doctorImage: string;
+}
+
 // Load all burn guides from JSON file (excluding hidden ones)
 export const BURN_GUIDES: BurnGuide[] = burnsDataJson.guides
   .filter(guide => !guide.hidden)
@@ -62,4 +79,24 @@ export const getGuideDataById = (id: string): GuideContentData | undefined => {
     steps: guide.steps,
     warnings: guide.warnings
   };
+};
+
+export const HOME_FOOTER_DATA: HomeFooterData = {
+  heading: {
+    en: 'Medical Supervision',
+    hi: 'चिकित्सकीय पर्यवेक्षण'
+  },
+  doctorName: 'Dr. Kaushal Kumar',
+  qualifications: 'M.S. · M.Ch.',
+  specialty: 'Plastic Surgeon',
+  experienceTitle: '30+ Years Experience',
+  experienceSubtitle: 'Serving Bareilly since 1996',
+  hospitalName: 'Eshan Hospital',
+  addressLine1: 'F-1, Rampur Garden, Opposite Vikas Bhawan,',
+  addressLine2: 'Anand Ashram Road, Bareilly, UP 243001',
+  phone: '9876543210',
+  whatsappLabel: 'WhatsApp',
+  email: 'info@eshanhospital.com',
+  website: 'www.eshanhospital.com',
+  doctorImage: '/images/doctor-profile.png'
 };
