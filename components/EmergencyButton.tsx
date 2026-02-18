@@ -28,7 +28,7 @@ export const EmergencyButton: React.FC = () => {
     // Container for positioning the FAB at the bottom center
     <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 pb-safe pointer-events-none">
       <a
-        href="tel:+915812510204"
+        href="tel:+919837041574"
         // Main container. Pointer events auto to allow clicking the button while container passes through touches.
         className={`
           pointer-events-auto
@@ -39,7 +39,7 @@ export const EmergencyButton: React.FC = () => {
           transition-all duration-500 ease-in-out
           ${isExtended ? 'pr-6' : 'pr-4'}
         `}
-        aria-label="Call Emergency: 0581-2510204"
+        aria-label="Call Emergency: 9837041574"
         style={{
           willChange: 'padding-right',
           transform: 'translateZ(0)',

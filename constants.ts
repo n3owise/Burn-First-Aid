@@ -92,7 +92,7 @@ export const HOME_FOOTER_DATA: HomeFooterData = {
   experienceSubtitle: 'Serving Bareilly since 1996',
   hospitalName: 'Eshan Hospital',
   addressLine1: 'F-1, Rampur Garden,Bareilly, UP 243001',
-  phone: '9876543210',
+  phone: '9837041574',
   whatsappLabel: 'WhatsApp',
   email: 'info@eshanhospital.com',
   website: 'www.eshanhospital.com',
