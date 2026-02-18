@@ -3,6 +3,8 @@ import { ChevronLeft, X, Check } from 'lucide-react';
 import { EmergencyButton } from './EmergencyButton';
 import { GuideContentData } from '../constants';
 import { LanguageToggle } from './LanguageToggle';
+import { Plyr } from 'plyr-react';
+import 'plyr-react/plyr.css';
 
 interface GuidePageProps {
   guideData: GuideContentData;
@@ -76,16 +78,21 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
 
           {/* YouTube Video - Only for Electrical Burn */}
           {guideData.id === 'electrical' && (
-            <div className="mt-3 mb-3">
-              <iframe
-                width="100%"
-                height="200"
-                src="https://www.youtube.com/embed/DUaxt8OlT3o"
-                title="Electrical Burn First Aid"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="rounded-lg shadow-md"
+            <div className="mt-3 mb-3 rounded-lg overflow-hidden shadow-md">
+              <Plyr
+                source={{
+                  type: 'video',
+                  sources: [
+                    {
+                      src: 'DUaxt8OlT3o',
+                      provider: 'youtube'
+                    }
+                  ]
+                }}
+                options={{
+                  controls: ['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'fullscreen'],
+                  youtube: { noCookie: true, rel: 0, showinfo: 0, iv_load_policy: 3, modestbranding: 1 }
+                }}
               />
             </div>
           )}

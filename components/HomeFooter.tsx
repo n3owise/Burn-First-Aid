@@ -27,8 +27,6 @@ export const HomeFooter: React.FC<HomeFooterProps> = ({ lang }) => {
             </div>
 
             <div className="flex-1 p-3">
-              <p className="text-[11px] text-[#8a93a6] tracking-wide mb-1">— {data.heading[lang]} —</p>
-
               <div className="flex items-start justify-between gap-2.5">
                 <div>
                   <h3 className="text-[21px] leading-[1.1] font-semibold text-[#1e2433]">{data.doctorName}</h3>
