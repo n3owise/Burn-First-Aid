@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { ChevronLeft, X, Check } from 'lucide-react';
 import { EmergencyButton } from './EmergencyButton';
 import { GuideContentData } from '../constants';
@@ -14,6 +14,8 @@ interface GuidePageProps {
 }
 
 export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, setLang }) => {
+  const [firefluidExpanded, setFirefluidExpanded] = useState(false);
+  
   // Smooth scroll to top when mounted
   React.useEffect(() => {
     window.scrollTo(0, 0);
@@ -77,6 +79,99 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
           </div>
 
           {/* YouTube Video - Only for Electrical Burn */}
+          {guideData.id === 'firecracker' && (
+            <div className="mt-3 mb-3">
+              <style>{`
+                @keyframes pulse-soft {
+                  0%, 100% { transform: scale(1); opacity: 1; }
+                  50% { transform: scale(1.02); opacity: 0.8; }
+                }
+                @keyframes slide-up {
+                  from {
+                    opacity: 0;
+                    transform: translateY(10px);
+                  }
+                  to {
+                    opacity: 1;
+                    transform: translateY(0);
+                  }
+                }
+                @keyframes bounce-arrow {
+                  0%, 100% { transform: translateY(0); }
+                  50% { transform: translateY(-4px); }
+                }
+                .pulse-soft { animation: pulse-soft 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+                .slide-up { animation: slide-up 0.4s ease-out; }
+                .bounce-arrow { animation: bounce-arrow 2s ease-in-out infinite; }
+              `}</style>
+              
+              <button
+                onClick={() => setFirefluidExpanded(!firefluidExpanded)}
+                className="w-full rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 hover:scale-105 relative"
+              >
+                <img src="/images/firecracker-placeholder.png" alt="Firecracker safety" className="w-full h-auto object-cover" />
+                <div className="absolute top-3 left-0 right-0 flex justify-center">
+                  <p className="text-white text-sm font-bold bg-black/40 px-3 py-1.5 rounded-full backdrop-blur-sm">
+                    Mechanical Sparkler
+                  </p>
+                </div>
+                <div className="absolute bottom-0 left-0 right-0 flex justify-center pb-3">
+                  <div className="flex items-center gap-2 animate-bounce">
+                    <span className="bounce-arrow text-lg">👉</span>
+                    <p className="text-white text-xs font-bold bg-orange-500/80 px-3 py-1.5 rounded-full backdrop-blur-sm">
+                      Tap to Learn More
+                    </p>
+                    <span className="bounce-arrow text-lg">👈</span>
+                  </div>
+                </div>
+              </button>
+              
+
+              {/* Expanded state - Safety details */}
+              {firefluidExpanded && (
+                <div className="mt-2 p-4 bg-gradient-to-br from-orange-50 via-orange-50 to-amber-50 rounded-lg border-2 border-orange-300 shadow-lg slide-up">
+                  <div className="space-y-3">
+                    <h3 className="font-bold text-lg bg-gradient-to-r from-orange-600 to-orange-700 bg-clip-text text-transparent">
+                      Mechanical Sparkler! 
+                    </h3>
+                    <p className="text-sm text-gray-700 leading-relaxed font-medium">
+                      Love the noise but hate the nerves? Our firecracker safety tool keeps your hands clear of the action.
+                    </p>
+                    <ul className="space-y-2.5 text-sm text-gray-700">
+                      <li className="flex items-start gap-3 p-2 bg-white/60 rounded-lg hover:bg-white transition-colors">
+                        <span className="text-orange-600 font-bold text-lg flex-shrink-0">📏</span>
+                        <div>
+                          <strong className="text-orange-700">Extended Reach:</strong>
+                          <p className="text-xs text-gray-600 mt-0.5">Keep a safe distance from the fuse.</p>
+                        </div>
+                      </li>
+                      <li className="flex items-start gap-3 p-2 bg-white/60 rounded-lg hover:bg-white transition-colors">
+                        <span className="text-orange-600 font-bold text-lg flex-shrink-0">🤝</span>
+                        <div>
+                          <strong className="text-orange-700">Steady Grip:</strong>
+                          <p className="text-xs text-gray-600 mt-0.5">No more fumbling with small fuses.</p>
+                        </div>
+                      </li>
+                      <li className="flex items-start gap-3 p-2 bg-white/60 rounded-lg hover:bg-white transition-colors">
+                        <span className="text-orange-600 font-bold text-lg flex-shrink-0">✨</span>
+                        <div>
+                          <strong className="text-orange-700">Pro-Safety:</strong>
+                          <p className="text-xs text-gray-600 mt-0.5">The ultimate accessory for a worry-free celebration.</p>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <button
+                    onClick={() => setFirefluidExpanded(false)}
+                    className="mt-4 w-full py-2.5 text-sm font-bold bg-gradient-to-r from-orange-500 to-orange-600 text-white rounded-lg hover:from-orange-600 hover:to-orange-700 transition-all duration-300 transform hover:scale-105 active:scale-95 shadow-md"
+                  >
+                    Collapse ↑
+                  </button>
+                </div>
+              )}
+            </div>
+          )}
+
           {guideData.id === 'electrical' && (
             <div className="mt-3 mb-3 rounded-lg overflow-hidden shadow-md">
               <Plyr
