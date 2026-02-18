@@ -53,9 +53,47 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
           <h3 className="text-[15px] font-bold text-[#166534] mb-2 flex items-center gap-2">
             ✅ {lang === 'en' ? "Do This Immediately" : "तुरंत यह करें"}
           </h3>
+          
+          {/* First 3 DOS items */}
           <div className="grid grid-cols-3 gap-2">
-            {guideData.dos.map((item, idx) => (
+            {guideData.dos.slice(0, 3).map((item, idx) => (
               <div key={idx} className="bg-white rounded-[8px] overflow-hidden shadow-sm border border-green-100 flex flex-col h-full">
+                <div className="relative aspect-square w-full bg-gray-100">
+                  <img src={item.image} alt="Do" className="w-full h-full object-cover" />
+                  <div className="absolute inset-0 bg-[#15803d]/10 pointer-events-none" />
+                  <div className="absolute top-1 right-1 bg-green-600 rounded-full p-0.5 shadow-md z-10">
+                    <Check className="w-2.5 h-2.5 text-white" />
+                  </div>
+                </div>
+                <div className="p-1.5 flex items-center justify-center flex-1 bg-white">
+                  <p className="text-[10px] leading-3 text-center font-medium text-gray-700 line-clamp-3">
+                    {item.text[lang]}
+                  </p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* YouTube Video - Only for Electrical Burn */}
+          {guideData.id === 'electrical' && (
+            <div className="mt-3 mb-3">
+              <iframe
+                width="100%"
+                height="200"
+                src="https://www.youtube.com/embed/DUaxt8OlT3o"
+                title="Electrical Burn First Aid"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                className="rounded-lg shadow-md"
+              />
+            </div>
+          )}
+
+          {/* Last 3 DOS items */}
+          <div className="grid grid-cols-3 gap-2 mt-2">
+            {guideData.dos.slice(3, 6).map((item, idx) => (
+              <div key={idx + 3} className="bg-white rounded-[8px] overflow-hidden shadow-sm border border-green-100 flex flex-col h-full">
                 <div className="relative aspect-square w-full bg-gray-100">
                   <img src={item.image} alt="Do" className="w-full h-full object-cover" />
                   <div className="absolute inset-0 bg-[#15803d]/10 pointer-events-none" />
