@@ -3,11 +3,11 @@ import styled from 'styled-components';
 
 export const MarqueeCarousel: React.FC = () => {
   const tips = [
-    { label: 'First Aid:', text: 'Cool burn under running water for 20 minutes.', icon: '🩹' },
-    { label: 'Avoid:', text: "Don't apply ghee/oil/toothpaste on burns.", icon: '🚫' },
-    { label: 'Safety:', text: 'Supervise children during lighting and keep distance.', icon: '🚨' },
-    { label: 'Clothing:', text: 'Prefer cotton near diyas and candles.', icon: '👕' },
-    { label: 'Emergency:', text: 'Face/hand burns or blistering needs early care.', icon: '🏥' }
+    { label: 'Burn Emergency:', text: 'Call 9837041574', icon: '🚨' },
+    { label: 'Flame / Home Burn:', text: "Cool under water for 20 minutes.", icon: '🔥' },
+    { label: 'Electrical Burn:', text: 'Unconscious? Rush to hospital.  Conscious? Call 9837041574.', icon: '⚡️' },
+    { label: 'Chemical Burn:', text: 'Rinse immediately. Call 9837041574', icon: '🧪' },
+    { label: 'Firework Burn:', text: 'Cool fast. Seek medical help.', icon: '🎆' }
   ];
 
   return (
@@ -81,7 +81,7 @@ const StyledWrapper = styled.div`
     gap: 14px;
     margin: 0 7px;
     padding: 8px 18px 8px 20px;
-    background: linear-gradient(135deg, #4a5568 0%, #5a6478 50%, #4a5568 100%);
+    background: linear-gradient(135deg, #e85454 0%, #cfac5b 50%, #f84a4a 100%);
     border-radius: 50px;
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15),
                 0 2px 4px rgba(0, 0, 0, 0.1);
