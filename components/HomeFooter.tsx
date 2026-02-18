@@ -13,7 +13,7 @@ export const HomeFooter: React.FC<HomeFooterProps> = ({ lang }) => {
     <section className="w-full px-4 pb-3 pt-1.5">
       <div className="rounded-[20px] bg-gradient-to-br from-[#f4f5f8] via-[#eef3fa] to-[#e8f1fb] border border-[#e1e6ef] shadow-[0_8px_20px_rgba(15,23,42,0.07)] p-1.5">
         <div className="rounded-[18px] border border-white/70 bg-gradient-to-r from-white/90 via-[#f3f5fb] to-[#e8f2fd] overflow-hidden">
-          <div className="flex min-h-[135px]">
+          <div className="flex min-h-[125px]">
             <div className="w-[30%] min-w-[85px] bg-gradient-to-b from-[#f3f5fa] to-[#dbe9f8] flex items-end justify-center overflow-hidden">
               <img
                 src={data.doctorImage}
@@ -27,20 +27,18 @@ export const HomeFooter: React.FC<HomeFooterProps> = ({ lang }) => {
             </div>
 
             <div className="flex-1 p-2">
-              <div className="flex items-start justify-between gap-2">
-                <div>
-                  <h3 className="text-[18px] leading-[1.1] font-semibold text-[#1e2433]">{data.doctorName}</h3>
-                  <p className="text-[11px] text-[#5d6578] mt-0.5">{data.qualifications}</p>
-                  <p className="text-[11px] text-[#5d6578]">{data.specialty}</p>
-                </div>
-
-                <div className="rounded-lg bg-gradient-to-r from-[#d9e8f9] to-[#dfe6f7] px-2 py-1 min-w-[130px]">
-                  <p className="text-[12px] font-semibold text-[#1f2636] leading-tight">{data.experienceTitle}</p>
-                  <p className="text-[10px] text-[#5f6780] mt-0.5 leading-tight">{data.experienceSubtitle}</p>
-                </div>
+              <div>
+                <h3 className="text-[18px] leading-[1.1] font-semibold text-[#1e2433]">{data.doctorName}</h3>
+                <p className="text-[11px] text-[#5d6578] mt-0.5">{data.qualifications}</p>
+                <p className="text-[11px] text-[#5d6578]">{data.specialty}</p>
               </div>
 
-              <div className="mt-1.5 border-t border-[#dbe1eb] pt-1.5">
+              <div className="mt-1.5 py-1.5 border-t border-b border-[#dbe1eb]">
+                <p className="text-[11px] font-semibold text-[#1f2636] leading-tight">{data.experienceTitle}</p>
+                <p className="text-[9px] text-[#5f6780] mt-0.5 leading-tight">{data.experienceSubtitle}</p>
+              </div>
+
+              <div className="mt-1.5">
                 <div className="flex items-start gap-1.5">
                   <MapPin className="w-3 h-3 text-[#6e778b] mt-0.5 flex-shrink-0" />
                   <div>
