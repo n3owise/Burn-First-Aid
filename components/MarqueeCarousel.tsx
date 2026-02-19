@@ -5,7 +5,7 @@ export const MarqueeCarousel: React.FC = () => {
   const tips = [
     { label: 'Burn Emergency:', text: 'Call 9837041574', icon: '🚨' },
     { label: 'Flame / Home Burn:', text: "Cool under water for 20 minutes.", icon: '🔥' },
-    { label: 'Electrical Burn:', text: 'Unconscious? Rush to hospital.  Conscious? Call 9837041574.', icon: '⚡️' },
+    { label: 'Electrical Burn:', text: 'If conscious and breathing. Rush to hospital.  If not breathing, start resuscitation.', icon: '⚡️' },
     { label: 'Chemical Burn:', text: 'Rinse immediately. Call 9837041574', icon: '🧪' },
     { label: 'Firework Burn:', text: 'Cool fast. Seek medical help.', icon: '🎆' }
   ];
