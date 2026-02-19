@@ -1223,7 +1223,7 @@
             "hi": "सांस और नाड़ी की जांच करें"
           },
           "description": {
-            "en": "If patient is unconscious, start resuscitation, don't rush to the hospital. If patient is conscious, rush to the hospital.",
+            "en": "If patent unconscious or not breathing start resuscitation immediately at the sight.",
             "hi": "यदि मरीज बेहोश है, तो तुरंत पुनर्जीवन शुरू करें, अस्पताल जाने की जल्दी न करें। यदि मरीज होश में है, तो तुरंत अस्पताल जाएं।"
           }
         },

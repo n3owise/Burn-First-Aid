@@ -51,22 +51,37 @@ export const HomeFooter: React.FC<HomeFooterProps> = ({ lang }) => {
             </div>
           </div>
 
-          <div className="grid grid-cols-4 border-t border-[#dce3ee] bg-white/70">
-            <div className="flex items-center gap-1 px-1.5 py-1.5 border-r border-[#dce3ee] min-w-0">
-              <Phone className="w-3 h-3 text-[#2b6650] flex-shrink-0" />
-              <span className="text-[10px] font-medium text-[#243143] truncate">{data.phone}</span>
-            </div>
-            <div className="flex items-center gap-1 px-1.5 py-1.5 border-r border-[#dce3ee] min-w-0">
-              <MessageCircle className="w-3 h-3 text-[#1f9d59] flex-shrink-0" />
-              <span className="text-[10px] font-medium text-[#243143] truncate">{data.whatsappLabel}</span>
-            </div>
-            <div className="flex items-center gap-1 px-1.5 py-1.5 border-r border-[#dce3ee] min-w-0">
-              <Mail className="w-3 h-3 text-[#5f7896] flex-shrink-0" />
-              <span className="text-[10px] font-medium text-[#243143] truncate">{data.email}</span>
-            </div>
-            <div className="flex items-center gap-1 px-1.5 py-1.5 min-w-0">
-              <Globe className="w-3 h-3 text-[#5f7896] flex-shrink-0" />
-              <span className="text-[10px] font-medium text-[#243143] truncate">{data.website}</span>
+          <div className="border-t border-[#dce3ee]">
+            <p className="text-center text-[9px] text-[#5f6780] py-1 bg-[#f8f9fb]">{lang === 'en' ? 'Tap icons to contact' : 'संपर्क के लिए आइकन टैप करें'}</p>
+            <div className="grid grid-cols-4 bg-white/70">
+              <a
+                href={data.phoneUrl}
+                className="flex items-center justify-center px-2 py-3 border-r border-[#dce3ee] hover:bg-green-50 active:bg-green-100 transition-colors"
+              >
+                <Phone className="w-5 h-5 text-[#2b6650]" />
+              </a>
+            <a
+              href={data.whatsappUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center px-2 py-3 border-r border-[#dce3ee] hover:bg-green-50 active:bg-green-100 transition-colors"
+            >
+              <MessageCircle className="w-5 h-5 text-[#1f9d59]" />
+            </a>
+            <a
+              href={data.emailUrl}
+              className="flex items-center justify-center px-2 py-3 border-r border-[#dce3ee] hover:bg-blue-50 active:bg-blue-100 transition-colors"
+            >
+              <Mail className="w-5 h-5 text-[#5f7896]" />
+            </a>
+            <a
+              href={data.websiteUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center px-2 py-3 hover:bg-blue-50 active:bg-blue-100 transition-colors"
+            >
+              <Globe className="w-5 h-5 text-[#5f7896]" />
+            </a>
             </div>
           </div>
         </div>

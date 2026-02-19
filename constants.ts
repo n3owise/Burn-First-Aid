@@ -48,9 +48,13 @@ export interface HomeFooterData {
   addressLine1: string;
   addressLine2: string;
   phone: string;
+  phoneUrl: string;
   whatsappLabel: string;
+  whatsappUrl: string;
   email: string;
+  emailUrl: string;
   website: string;
+  websiteUrl: string;
   doctorImage: string;
 }
 
@@ -88,13 +92,19 @@ export const HOME_FOOTER_DATA: HomeFooterData = {
   },
   doctorName: 'Dr. Kaushal Kumar',
   qualifications: 'M.S. · M.Ch.   ·    Plastic Surgeon',
+  specialty: '',
   experienceTitle: '30+ Years Experience',
   experienceSubtitle: 'Serving Bareilly since 1996',
   hospitalName: 'Eshan Hospital',
   addressLine1: 'F-1, Rampur Garden,Bareilly, UP 243001',
+  addressLine2: '',
   phone: '9837041574',
+  phoneUrl: 'tel:+919837041574',
   whatsappLabel: 'WhatsApp',
+  whatsappUrl: 'https://wa.me/919837041574',
   email: 'info@eshanhospital.com',
+  emailUrl: 'mailto:info@eshanhospital.com',
   website: 'www.eshanhospital.com',
+  websiteUrl: 'https://www.eshanhospital.com',
   doctorImage: '/images/doctor-profile.png'
 };
