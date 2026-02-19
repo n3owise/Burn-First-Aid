@@ -30,7 +30,14 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
       {/* SECTION 1: TOP NAVIGATION BAR */}
       <nav className="fixed top-0 left-0 right-0 z-50 h-[52px] bg-white/95 backdrop-blur-sm border-b border-[#E5E5E5] flex items-center justify-between px-3 transition-all duration-200">
         <button 
-          onClick={onBack}
+          onClick={() => {
+            // Use history.back() if possible, otherwise use onBack
+            if (window.history.state?.view === 'guide') {
+              window.history.back();
+            } else {
+              onBack();
+            }
+          }}
           className="flex items-center text-medical-text active:opacity-60 p-2 -ml-2 rounded-lg"
         >
           <ChevronLeft className="w-6 h-6" />
