@@ -162,19 +162,19 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
                 onClick={() => setShowSparklerVideo(false)}
               >
                 <div 
-                  className="bg-gray-900 rounded-xl shadow-2xl max-w-4xl w-full animate-in zoom-in-95 duration-200 relative"
+                  className="bg-gray-900 rounded-xl shadow-2xl max-w-2xl w-full animate-in zoom-in-95 duration-200 relative"
                   onClick={(e) => e.stopPropagation()}
                 >
                   {/* Close Button */}
                   <button
                     onClick={() => setShowSparklerVideo(false)}
-                    className="absolute -top-12 right-0 z-10 bg-white/90 hover:bg-white text-gray-900 p-2.5 rounded-full transition-colors shadow-lg"
+                    className="absolute -top-10 right-0 z-10 bg-white/90 hover:bg-white text-gray-900 p-2 rounded-full transition-colors shadow-lg"
                   >
                     <X className="w-5 h-5" />
                   </button>
 
                   {/* Video Player */}
-                  <div className="w-full p-4">
+                  <div className="w-full p-3">
                     <style>{`
                       .plyr {
                         border-radius: 0.5rem;
