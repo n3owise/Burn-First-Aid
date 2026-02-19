@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lottie-react": "^2.4.1",
     "lucide-react": "^0.564.0",
     "plyr": "^3.8.4",
     "plyr-react": "^6.0.0",

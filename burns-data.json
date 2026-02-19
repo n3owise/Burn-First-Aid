@@ -1223,8 +1223,8 @@
             "hi": "सांस और नाड़ी की जांच करें"
           },
           "description": {
-            "en": "Check if the victim is breathing and has a pulse. If not, start CPR if trained. Continue until help arrives.",
-            "hi": "जांच करें कि पीड़ित सांस ले रहा है और नाड़ी है। यदि नहीं और आप प्रशिक्षित हैं तो CPR शुरू करें। मदद आने तक जारी रखें।"
+            "en": "If patient is unconscious, start resuscitation, don't rush to the hospital. If patient is conscious, rush to the hospital.",
+            "hi": "यदि मरीज बेहोश है, तो तुरंत पुनर्जीवन शुरू करें, अस्पताल जाने की जल्दी न करें। यदि मरीज होश में है, तो तुरंत अस्पताल जाएं।"
           }
         },
         {
@@ -1264,8 +1264,8 @@
           "hi": "सभी बिजली से जले हिस्सों का अस्पताल में मूल्यांकन जरूरी है"
         },
         {
-          "en": "Victim is unconscious or not breathing",
-          "hi": "पीड़ित बेहोश है या सांस नहीं ले रहा"
+          "en": "Victim is concious or not breathing",
+          "hi": "पीड़ित होश में है या सांस नहीं ले रहा"
         },
         {
           "en": "Burns at entry and exit points of current",
