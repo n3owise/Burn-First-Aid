@@ -1126,8 +1126,8 @@
         {
           "image": "/images/electrical/dos/step-2.jpg",
           "text": {
-            "en": "Call emergency services (108/102)",
-            "hi": "आपातकालीन सेवा (108/102) बुलाएं"
+            "en": "Call emergency services",
+            "hi": "आपातकालीन सेवा बुलाएं"
           }
         },
         {
@@ -1135,27 +1135,6 @@
           "text": {
             "en": "Check for breathing and pulse",
             "hi": "सांस और नाड़ी की जांच करें"
-          }
-        },
-        {
-          "image": "/images/electrical/dos/step-4.jpg",
-          "text": {
-            "en": "Cool visible burns with water",
-            "hi": "दिखाई देने वाले जले हिस्से को पानी से ठंडा करें"
-          }
-        },
-        {
-          "image": "/images/electrical/dos/step-5.jpg",
-          "text": {
-            "en": "Cover burns with clean cloth",
-            "hi": "जले हिस्से को साफ कपड़े से ढकें"
-          }
-        },
-        {
-          "image": "/images/electrical/dos/step-6.jpg",
-          "text": {
-            "en": "Keep victim warm and calm",
-            "hi": "पीड़ित को गर्म और शांत रखें"
           }
         }
       ],
@@ -1213,8 +1192,8 @@
             "hi": "तुरंत आपातकालीन सेवा बुलाएं"
           },
           "description": {
-            "en": "Dial 108 or 102 for ambulance. Electrical burns can cause internal damage not visible externally. Medical evaluation is critical.",
-            "hi": "एंबुलेंस के लिए 108 या 102 डायल करें। बिजली से जलना आंतरिक नुकसान कर सकता है जो बाहर से दिखाई नहीं देता। चिकित्सा मूल्यांकन बहुत जरूरी है।"
+            "en": "Call for ambulance. Electrical burns can cause internal damage not visible externally. Medical evaluation is critical.",
+            "hi": "एंबुलेंस बुलाएं। बिजली से जलना आंतरिक नुकसान कर सकता है जो बाहर से दिखाई नहीं देता। चिकित्सा मूल्यांकन बहुत जरूरी है।"
           }
         },
         {
@@ -1223,18 +1202,8 @@
             "hi": "सांस और नाड़ी की जांच करें"
           },
           "description": {
-            "en": "If patent unconscious or not breathing start resuscitation immediately at the sight.",
+            "en": "If patient unconscious or not breathing start resuscitation immediately at the site.",
             "hi": "यदि मरीज बेहोश है, तो तुरंत पुनर्जीवन शुरू करें, अस्पताल जाने की जल्दी न करें। यदि मरीज होश में है, तो तुरंत अस्पताल जाएं।"
-          }
-        },
-        {
-          "title": {
-            "en": "Cool Visible Burns with Water",
-            "hi": "दिखाई देने वाले जले हिस्से को पानी से ठंडा करें"
-          },
-          "description": {
-            "en": "If there are visible burns, cool them under running water for 10-20 minutes. Be gentle as electrical burns can be deep.",
-            "hi": "यदि दिखाई देने वाले जले हिस्से हैं, तो उन्हें 10-20 मिनट तक बहते पानी में ठंडा करें। सावधान रहें क्योंकि बिजली से जलना गहरा हो सकता है।"
           }
         },
         {
@@ -1264,8 +1233,8 @@
           "hi": "सभी बिजली से जले हिस्सों का अस्पताल में मूल्यांकन जरूरी है"
         },
         {
-          "en": "Victim is concious or not breathing",
-          "hi": "पीड़ित होश में है या सांस नहीं ले रहा"
+          "en": "Victim is concious",
+          "hi": "पीड़ित होश में है"
         },
         {
           "en": "Burns at entry and exit points of current",
@@ -1412,8 +1381,8 @@
         },
         {
           "title": {
-            "en": "Call Emergency Services (108/102)",
-            "hi": "आपातकालीन सेवा (108/102) बुलाएं"
+            "en": "Call Emergency Services ",
+            "hi": "आपातकालीन सेवा बुलाएं"
           },
           "description": {
             "en": "Call ambulance immediately. Provide information about the chemical if known. Keep the chemical container for medical team to see.",
