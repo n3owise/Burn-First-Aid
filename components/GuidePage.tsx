@@ -17,6 +17,9 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
   const [firefluidExpanded, setFirefluidExpanded] = useState(false);
   const [showSparklerVideo, setShowSparklerVideo] = useState(false);
   
+  // Version marker for cache debugging
+  console.log('GuidePage v2.0 - SITE not SIGHT');
+  
   // Smooth scroll to top when mounted
   React.useEffect(() => {
     window.scrollTo(0, 0);
@@ -267,7 +270,7 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
               <div className="mb-2 p-3 bg-red-50 border-l-4 border-red-500 rounded">
                 <p className="text-[15px] font-bold text-red-800 leading-tight">
                   {lang === 'en' 
-                    ? 'If patient unconscious or not breathing start resuscitation immediately at the sight.' 
+                    ? 'If patient unconscious or not breathing start resuscitation immediately at the site.' 
                     : 'यदि मरीज बेहोश है या सांस नहीं ले रहा है, तो तुरंत पुनर्जीवन शुरू करें।'}
                 </p>
               </div>
