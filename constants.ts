@@ -102,8 +102,8 @@ export const HOME_FOOTER_DATA: HomeFooterData = {
   phoneUrl: 'tel:+919837041574',
   whatsappLabel: 'WhatsApp',
   whatsappUrl: 'https://wa.me/919837041574',
-  email: 'info@eshanhospital.com',
-  emailUrl: 'mailto:info@eshanhospital.com',
+  email: 'eshanhospitals@gmail.com',
+  emailUrl: 'mailto:eshanhospitals@gmail.com',
   website: 'www.eshanhospital.com',
   websiteUrl: 'https://www.eshanhospital.com',
   doctorImage: '/images/doctor-profile.png'

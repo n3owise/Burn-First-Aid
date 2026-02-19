@@ -15,6 +15,7 @@ interface GuidePageProps {
 
 export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, setLang }) => {
   const [firefluidExpanded, setFirefluidExpanded] = useState(false);
+  const [showSparklerVideo, setShowSparklerVideo] = useState(false);
   
   // Smooth scroll to top when mounted
   React.useEffect(() => {
@@ -139,6 +140,96 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
                 >
                   Collapse ↑
                 </button>
+              </div>
+            )}
+
+            {/* Video Button */}
+            <div className="mt-3">
+              <button
+                onClick={() => setShowSparklerVideo(true)}
+                className="group w-full bg-gradient-to-r from-gray-800 to-gray-900 text-white py-3.5 px-5 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-3 font-medium text-sm border border-gray-700 hover:border-gray-600"
+              >
+                <span className="text-xl group-hover:scale-110 transition-transform duration-300">🎬</span>
+                <span className="tracking-wide">{lang === 'en' ? 'Click here to watch video' : 'वीडियो देखने के लिए यहां क्लिक करें'}</span>
+                <span className="text-xs bg-white/10 px-2 py-0.5 rounded-full">▶</span>
+              </button>
+            </div>
+
+            {/* Video Modal */}
+            {showSparklerVideo && (
+              <div 
+                className="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 flex items-center justify-center p-4"
+                onClick={() => setShowSparklerVideo(false)}
+              >
+                <div 
+                  className="bg-gray-900 rounded-xl shadow-2xl max-w-4xl w-full animate-in zoom-in-95 duration-200 relative"
+                  onClick={(e) => e.stopPropagation()}
+                >
+                  {/* Close Button */}
+                  <button
+                    onClick={() => setShowSparklerVideo(false)}
+                    className="absolute -top-12 right-0 z-10 bg-white/90 hover:bg-white text-gray-900 p-2.5 rounded-full transition-colors shadow-lg"
+                  >
+                    <X className="w-5 h-5" />
+                  </button>
+
+                  {/* Video Player */}
+                  <div className="w-full p-4">
+                    <style>{`
+                      .plyr {
+                        border-radius: 0.5rem;
+                      }
+                      .plyr--video {
+                        background: black;
+                      }
+                      .plyr__controls {
+                        background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9)) !important;
+                        padding: 30px 15px 15px !important;
+                      }
+                      .plyr__control--overlaid {
+                        background: rgba(249, 115, 22, 0.9) !important;
+                      }
+                      .plyr__control--overlaid:hover {
+                        background: rgba(249, 115, 22, 1) !important;
+                      }
+                      .plyr__progress {
+                        margin-bottom: 0 !important;
+                      }
+                      .plyr__progress input[type=range] {
+                        color: #f97316 !important;
+                      }
+                      .plyr--full-ui input[type=range] {
+                        color: #f97316 !important;
+                      }
+                      .plyr__control {
+                        color: white !important;
+                      }
+                      .plyr__control:hover {
+                        background: rgba(249, 115, 22, 0.2) !important;
+                      }
+                      .plyr__time {
+                        color: white !important;
+                      }
+                    `}</style>
+                    <Plyr
+                      source={{
+                        type: 'video',
+                        sources: [
+                          {
+                            src: 'https://res.cloudinary.com/dgybminsu/video/upload/v1771503047/SPARKLER_LUT_rb4sek.mp4',
+                            type: 'video/mp4',
+                          },
+                        ],
+                      }}
+                      options={{
+                        controls: ['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'duration', 'fullscreen'],
+                        autoplay: true,
+                        hideControls: false,
+                        resetOnEnd: false,
+                      }}
+                    />
+                  </div>
+                </div>
               </div>
             )}
           </div>
