@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Header } from './Header';
 import { HospitalBanner } from './HospitalBanner';
 import { GuideCard } from './GuideCard';
@@ -18,6 +18,23 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [isFirstAidModalOpen, setIsFirstAidModalOpen] = useState(false);
+
+  // Handle browser back button for modal
+  useEffect(() => {
+    const handlePopState = (event: PopStateEvent) => {
+      if (event.state?.view === 'firstaid-modal') {
+        setIsFirstAidModalOpen(true);
+      } else {
+        setIsFirstAidModalOpen(false);
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, []);
 
   // Filter guides based on search query (case-insensitive, check title and description in both langs)
   const filteredGuides = BURN_GUIDES.filter(guide => {
@@ -104,7 +121,11 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
         {!isSearchOpen && (
           <div className="px-4 py-6">
             <button
-              onClick={() => setIsFirstAidModalOpen(true)}
+              onClick={() => {
+                setIsFirstAidModalOpen(true);
+                // Push modal state to browser history
+                window.history.pushState({ view: 'firstaid-modal' }, '', '#firstaid');
+              }}
               className="w-full bg-gradient-to-r from-orange-500 to-red-500 text-white py-4 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center group"
             >
               <span className="text-[15px] font-bold">
@@ -121,7 +142,13 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
       {isFirstAidModalOpen && (
         <div 
           className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4"
-          onClick={() => setIsFirstAidModalOpen(false)}
+          onClick={() => {
+            setIsFirstAidModalOpen(false);
+            // Go back in history when closing modal
+            if (window.history.state?.view === 'firstaid-modal') {
+              window.history.back();
+            }
+          }}
         >
           <div 
             className="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[85vh] overflow-hidden animate-in zoom-in-95 duration-200"
@@ -137,7 +164,13 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onGuideSelect, lang, set
                 <p className="text-gray-400 text-xs mt-0.5">Essential Emergency Care Guide</p>
               </div>
               <button
-                onClick={() => setIsFirstAidModalOpen(false)}
+                onClick={() => {
+                  setIsFirstAidModalOpen(false);
+                  // Go back in history when closing modal
+                  if (window.history.state?.view === 'firstaid-modal') {
+                    window.history.back();
+                  }
+                }}
                 className="p-2 hover:bg-gray-800 rounded-full transition-colors"
                 aria-label="Close"
               >

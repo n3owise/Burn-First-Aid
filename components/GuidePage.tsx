@@ -226,7 +226,7 @@ export const GuidePage: React.FC<GuidePageProps> = ({ guideData, onBack, lang, s
                         type: 'video',
                         sources: [
                           {
-                            src: 'https://res.cloudinary.com/dgybminsu/video/upload/v1771503047/SPARKLER_LUT_rb4sek.mp4',
+                            src: 'https://res.cloudinary.com/dgybminsu/video/upload/v1771561914/Mechanical_Sparkler_1_rfugep.mp4',
                             type: 'video/mp4',
                           },
                         ],
